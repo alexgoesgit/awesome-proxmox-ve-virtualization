@@ -18,6 +18,7 @@
 
 # Management
 
+- [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines. [[docs](https://convoypanel.com/docs/project/introduction.html)]
 - [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
 - [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel which a user can deploy and manage VPS on servers with a single click. Virtualizor supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, etc with an inbuilt hourly billing system. [[docs](https://www.virtualizor.com/docs/)]
   
