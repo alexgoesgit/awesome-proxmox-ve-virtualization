@@ -40,7 +40,7 @@
 
 # Contributing
 
-Contributing guidelines can be found [here](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/blob/main/Contributing.md).
+Contributing guidelines can be found [here](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/blob/main/contributing.md).
 
 # License
 
