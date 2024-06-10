@@ -8,6 +8,7 @@
 
 * [Proxmox VE](#proxmox-ve)
 * [Management](#management)
+* [Monitoring](#monitoring)
 * [Backup Tools](#backup-tools)
 * [Contributing](#contributing)
 * [License](#license)
@@ -21,7 +22,12 @@
 - [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines. [[docs](https://convoypanel.com/docs/project/introduction.html)]
 - [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
 - [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel which a user can deploy and manage VPS on servers with a single click. Virtualizor supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, etc with an inbuilt hourly billing system. [[docs](https://www.virtualizor.com/docs/)]
-  
+
+# Monitoring
+
+- [CheckMK](https://checkmk.com/blog/proxmox-monitoring) - Proxmox Monitoring: How to Do it Efficiently with Checkmk
+- [Zabbix](https://www.zabbix.com/de/integrations/proxmox) - Template for monitoring Proxmox with Zabbix.
+
 # Backup Tools
 
 - [BDRSuite](https://www.bdrsuite.com/proxmox-backup/) - Comprehensive Backup and Disaster Recovery solution for virtual, physical, cloud, and SaaS applications. Agentless Backup and Recovery for Proxmox Virtual Machines. [[docs](https://www.bdrsuite.com/technical-documents/)] [[download](https://www.bdrsuite.com/vembu-bdr-suite-download/)]
