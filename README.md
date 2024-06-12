@@ -11,6 +11,7 @@
 * [VPS control panels](#vps-control-panels)
 * [Monitoring](#monitoring)
 * [Backup Tools](#backup-tools)
+* [API](#api)
 * [Contributing](#contributing)
 * [License](#license)
   
@@ -25,6 +26,7 @@
 
 # VPS control panels
 - [Proxmox VE VPS For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
+- [SolusVM](https://solusvm.com/) - Virtual infrastructure management solution to facilitate choice, simplicity, and performance for ISPs and enterprises. 
 - [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel which a user can deploy and manage VPS on servers with a single click. Virtualizor supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, etc with an inbuilt hourly billing system. [[docs](https://www.virtualizor.com/docs/)]
 
 # Monitoring
@@ -43,7 +45,18 @@
 - [Veeam Backup for Proxmox](https://www.veeam.com/blog/veeam-backup-for-proxmox.html) - Well-known Enterprise backup solution.
 - [Vinchin Backup & Recovery](https://www.vinchin.com/proxmox-backup.html) - Ease-of-use, secure and reliable data protection and disaster recovery solution designed to support protecting virtual machines (VM), cloud instances, databases, Exchange (on-premise and online) and unstructured data (file server and NAS server). [[trial](https://www.vinchin.com/vinchin-software-documentation-downloads.html), [docs](https://helpcenter.vinchin.com/)]
 
+# API
 
+- [Proxmox API documentation](https://pve.proxmox.com/pve-docs/api-viewer/index.html) - Explore API documentation.
+- Java
+  - [Proxmox VE Client API Java](https://github.com/Corsinvest/cv4pve-api-java) - Java API client Libraries.
+- Perl
+  - [Proxmox Perl API client](https://git.proxmox.com/?p=pve-apiclient.git;a=summary) - Official Proxmox Maintained Perl API.
+- Powershell
+  - [PowerShell for Proxmox VE](https://www.powershellgallery.com/packages/Corsinvest.ProxmoxVE.Api/) - CmdLet for PowerShell to manage Proxmox VE.
+- Python
+  - [proxmoxer](https://pypi.org/project/proxmoxer) - Proxmoxer is a python wrapper around the Proxmox REST API v2.
+  
 # Contributing
 
 Contributing guidelines can be found [here](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/blob/main/contributing.md).
