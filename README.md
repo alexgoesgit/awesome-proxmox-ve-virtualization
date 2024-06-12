@@ -8,6 +8,7 @@
 
 * [Proxmox VE](#proxmox-ve)
 * [Management](#management)
+* [VPS control panels](#vps-control-panels)
 * [Monitoring](#monitoring)
 * [Backup Tools](#backup-tools)
 * [Contributing](#contributing)
@@ -21,6 +22,9 @@
 
 - [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines. [[docs](https://convoypanel.com/docs/project/introduction.html)]
 - [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
+
+# VPS control panels
+- [Proxmox VE VPS For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
 - [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel which a user can deploy and manage VPS on servers with a single click. Virtualizor supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, etc with an inbuilt hourly billing system. [[docs](https://www.virtualizor.com/docs/)]
 
 # Monitoring
