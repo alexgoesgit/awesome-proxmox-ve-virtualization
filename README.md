@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A list of Proxmox VE related software, tools and documentation.
+> A list of Proxmox VE related software, tools and documentation. This project is not affiliated with Proxmox.
 
 # Contents
 
@@ -12,6 +12,8 @@
 * [Monitoring](#monitoring)
 * [Backup Tools](#backup-tools)
 * [API](#api)
+* [Other Tools](#other-tools)
+* [Documentation](#documentation)
 * [Contributing](#contributing)
 * [License](#license)
   
@@ -33,6 +35,8 @@
 
 - [CheckMK](https://checkmk.com/blog/proxmox-monitoring) - Proxmox Monitoring: How to Do it Efficiently with Checkmk.
 - [Netdata](https://www.netdata.cloud/integrations/data-collection/containers-and-vms/proxmox-ve/) - Netdata can be used to monitor all kinds of infrastructure, from tiny stand-alone IoT devices to complex hybrid setups combining on-premise and cloud infrastructure, mixing bare-metal servers, virtual machines and containers.
+- [PandoraFMS](https://pandorafms.com/blog/proxmox-ve-monitoring) - Proxmox VE monitoring with Pandora FMS.
+- [Prometheus Proxmox VE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - This is an exporter that exposes information gathered from Proxmox VE node for use by the Prometheus monitoring system.
 - [VictoriaMetrics](https://victoriametrics.com/blog/proxmox-monitoring-with-dbaas/) - The High-Performance, Open Source Time Series Database & Monitoring Solution.
 - [Zabbix](https://www.zabbix.com/de/integrations/proxmox) - Template for monitoring Proxmox with Zabbix.
 
@@ -47,7 +51,9 @@
 
 # API
 
-- [Proxmox API documentation](https://pve.proxmox.com/pve-docs/api-viewer/index.html) - Explore API documentation.
+- [Proxmox API documentation](https://pve.proxmox.com/pve-docs/api-viewer/index.html) - Explore the official API documentation.
+- Go
+  - [Proxmox API Go](https://github.com/Telmate/proxmox-api-go) - Proxmox API in golang. For /api2/json.
 - Java
   - [Proxmox VE Client API Java](https://github.com/Corsinvest/cv4pve-api-java) - Java API client Libraries.
 - Perl
@@ -56,6 +62,16 @@
   - [PowerShell for Proxmox VE](https://www.powershellgallery.com/packages/Corsinvest.ProxmoxVE.Api/) - CmdLet for PowerShell to manage Proxmox VE.
 - Python
   - [proxmoxer](https://pypi.org/project/proxmoxer) - Proxmoxer is a python wrapper around the Proxmox REST API v2.
+
+# Documentation
+- [Thomas Krenn Proxmox Wiki](https://www.thomas-krenn.com/de/wiki/Kategorie:Proxmox) - Several articles and howtos related to Proxmox VE.
+- [Promxox VE Wiki](https://pve.proxmox.com/wiki/Main_Page) - Official Proxmox VE Wiki.
+- [Proxmox VE Documentation](https://pve.proxmox.com/pve-docs/) - Official Proxmox VE Documentation.
+  
+# Other Tools
+
+- [Proxmox VE Helper-Scripts](https://tteck.github.io/Proxmox/) - Scripts for Streamlining Your Homelab with Proxmox VE.
+- [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - A Terraform / OpenTofu Provider which adds support for Proxmox solutions..
   
 # Contributing
 
