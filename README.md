@@ -75,6 +75,8 @@
 
 - [Ansible Module - Proxmox VE Cluster](https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_module.html) - Management of instances in Proxmox VE cluster.
 - [Cluster API Provider for Proxmox VE (CAPMOX)](https://github.com/ionos-cloud/cluster-api-provider-proxmox) - The Cluster API brings declarative, Kubernetes-style APIs to cluster creation, configuration and management. Cluster API Provider for Proxmox VE is a concrete implementation of Cluster API for Proxmox VE.
+- [LXC AutoScale](https://github.com/fabriziosalmi/proxmox-lxc-autoscale) - Resource management daemon specifically designed for Proxmox environments. It automatically adjusts CPU and memory allocations with no downtime and can clone LXC containers based on real-time usage metrics and predefined thresholds.
+- [Proxmox VM Autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) - Service that dynamically adjusts your Proxmox virtual machine (VM) resources (CPU cores, RAM) based on real-time metrics and user-defined thresholds.
 - [ProxLB](https://gyptazy.ch/blog/proxlb-rebalance-vm-workloads-across-nodes-in-proxmox-clusters/) - Application created to optimize the distribution of virtual machines (VMs) across Proxmox cluster nodes for significantly enhancing efficiency and performance.
 - [Proxmox VE Helper-Scripts](https://tteck.github.io/Proxmox/) - Scripts for Streamlining Your Homelab with Proxmox VE.
 - [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - A Terraform / OpenTofu Provider which adds support for Proxmox solutions.
