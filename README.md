@@ -11,6 +11,7 @@
 * [VPS control panels](#vps-control-panels)
 * [Monitoring](#monitoring)
 * [Backup Tools](#backup-tools)
+* [Storage](#storage)
 * [API](#api)
 * [Other Tools](#other-tools)
 * [Documentation](#documentation)
@@ -51,6 +52,10 @@
 - [SEP sesam for Proxmox Virtual Environment](https://www.sep.de/solutions/proxmox-hypervisor/) - SEP sesam provides efficient data protection for virtual machines (VMs) running on Proxmox VE
 - [Veeam Backup for Proxmox](https://www.veeam.com/blog/veeam-backup-for-proxmox.html) - Well-known Enterprise backup solution.
 - [Vinchin Backup & Recovery](https://www.vinchin.com/proxmox-backup.html) - Ease-of-use, secure and reliable data protection and disaster recovery solution designed to support protecting virtual machines (VM), cloud instances, databases, Exchange (on-premise and online) and unstructured data (file server and NAS server). [[trial](https://www.vinchin.com/vinchin-software-documentation-downloads.html), [docs](https://helpcenter.vinchin.com/)]
+
+# Storage
+
+- [Netapp: Proxmox VE with ONTAP](https://docs.netapp.com/us-en/netapp-solutions/proxmox/proxmox-ontap.html) - Netapp ONTAP storage can serve the needs of Proxmox VE host environments as well as for guest file, block and object storage demands.
 
 # API
 
