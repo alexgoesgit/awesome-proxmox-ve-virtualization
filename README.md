@@ -14,6 +14,7 @@
 * [Storage](#storage)
 * [API](#api)
 * [Other Tools](#other-tools)
+* [Mobile Apps](#mobile-apps)
 * [Documentation](#documentation)
 * [Contributing](#contributing)
 * [License](#license)
@@ -87,7 +88,18 @@
 - [ProxLB](https://gyptazy.ch/blog/proxlb-rebalance-vm-workloads-across-nodes-in-proxmox-clusters/) - Application created to optimize the distribution of virtual machines (VMs) across Proxmox cluster nodes for significantly enhancing efficiency and performance.
 - [Proxmox VE Helper-Scripts](https://tteck.github.io/Proxmox/) - Scripts for Streamlining Your Homelab with Proxmox VE.
 - [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - A Terraform / OpenTofu Provider which adds support for Proxmox solutions.
+
+# Mobile Apps
+
+## Android
+- [Proxmox VE Android App](https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend&pcampaignid=web_share) - Manage virtual machines, containers, hosts, and clusters. 
+- [ProxMon - A Proxmox VE client](https://play.google.com/store/apps/details?id=dev.reimu.proxmon&pcampaignid=web_share) -  View Proxmox nodes, storage pools, VMs, and containers' statuses.
   
+## iOS
+- [ProxMate iOS](https://apps.apple.com/de/app/proxmate/id6470526961?platform=iphone) - Manage your Proxmox Server.
+- [ProxMobo: Proxmox VE & PBS Management](https://proxmobo.app/) - Powerful monitoring and management app for Proxmox VE and Proxmox Backup Server.
+- [ProxMate Backup](https://apps.apple.com/de/app/proxmate-backup/id6618157722) - Manage Proxmox Backup Servers.
+
 # Contributing
 
 Contributing guidelines can be found [here](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/blob/main/contributing.md).
