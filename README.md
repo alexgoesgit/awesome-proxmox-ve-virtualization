@@ -27,6 +27,7 @@
 
 - [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines. [[docs](https://convoypanel.com/docs/project/introduction.html)]
 - [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
+- [Proxmox Datacenter Manager](https://forum.proxmox.com/threads/proxmox-datacenter-manager-first-alpha-release.159323/) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments. [[forum](https://forum.proxmox.com/threads/proxmox-datacenter-manager-first-alpha-release.159323/)] *Alpha-Release*
 
 # VPS control panels
 - [Proxmox VE VPS For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
