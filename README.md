@@ -94,6 +94,7 @@
 - [ProxMenux](https://github.com/MacRimi/ProxMenux) - A management tool for Proxmox VE that simplifies system administration through an interactive menu, allowing you to execute commands and scripts with ease.
 - [Proxmox VM Autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) - Service that dynamically adjusts your Proxmox virtual machine (VM) resources (CPU cores, RAM) based on real-time metrics and user-defined thresholds.
 - [ProxLB](https://github.com/gyptazy/ProxLB) - Application created to optimize the distribution of virtual machines (VMs) across Proxmox cluster nodes for significantly enhancing efficiency and performance.
+- [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems
 - [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 - [proxtagger](https://github.com/reginleif88/proxtagger) - A lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
 - [PVE-mods](https://github.com/Meliox/PVE-mods) - A small collection of scripts and mods for Proxmox Virtual Environment (PVE).
