@@ -16,6 +16,7 @@
 * [Other Tools](#other-tools)
 * [Mobile Apps](#mobile-apps)
 * [Documentation](#documentation)
+* [Forums](#forums)
 * [Contributing](#contributing)
 * [License](#license)
   
@@ -31,6 +32,7 @@
 - [Proxmox Datacenter Manager](https://forum.proxmox.com/threads/proxmox-datacenter-manager-first-alpha-release.159323/) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments. [[forum](https://forum.proxmox.com/threads/proxmox-datacenter-manager-first-alpha-release.159323/)] *Alpha-Release*
 
 # VPS control panels
+
 - [Proxmox VE VPS For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
 - [SolusVM](https://solusvm.com/) - Virtual infrastructure management solution to facilitate choice, simplicity, and performance for ISPs and enterprises. 
 - [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel which a user can deploy and manage VPS on servers with a single click. Virtualizor supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, etc with an inbuilt hourly billing system. [[docs](https://www.virtualizor.com/docs/)]
@@ -82,10 +84,16 @@
 
 # Documentation
 
+- [free-pmx](https://free-pmx.pages.dev/) - Insights and guides on Proxmox VE.
 - [Thomas Krenn Proxmox Wiki](https://www.thomas-krenn.com/de/wiki/Kategorie:Proxmox) - Several articles and howtos related to Proxmox VE.
 - [Promxox VE Wiki](https://pve.proxmox.com/wiki/Main_Page) - Official Proxmox VE Wiki.
 - [Proxmox VE Documentation](https://pve.proxmox.com/pve-docs/) - Official Proxmox VE Documentation.
   
+# Forums
+
+- [Proxmox Support Forum](https://forum.proxmox.com/) - Proxmox Community Forum.
+- [Reddit: Proxmox](https://www.reddit.com/r/Proxmox/) - Main subreddit regarding the Proxmox hypervisor.
+
 # Other Tools
 
 - [Ansible Module - Proxmox VE Cluster](https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_module.html) - Management of instances in Proxmox VE cluster.
