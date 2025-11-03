@@ -101,6 +101,7 @@
 - [Ansible Module - Proxmox VE Cluster](https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_module.html) - Management of instances in Proxmox VE cluster.
 - [Cluster API Provider for Proxmox VE (CAPMOX)](https://github.com/ionos-cloud/cluster-api-provider-proxmox) - The Cluster API brings declarative, Kubernetes-style APIs to cluster creation, configuration and management. Cluster API Provider for Proxmox VE is a concrete implementation of Cluster API for Proxmox VE.
 - [LXC AutoScale](https://github.com/fabriziosalmi/proxmox-lxc-autoscale) - Resource management daemon specifically designed for Proxmox environments. It automatically adjusts CPU and memory allocations with no downtime and can clone LXC containers based on real-time usage metrics and predefined thresholds.
+- [proxmox-backup](https://github.com/tis24dev/proxmox-backup) - Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.
 - [ProxMenux](https://github.com/MacRimi/ProxMenux) - A management tool for Proxmox VE that simplifies system administration through an interactive menu, allowing you to execute commands and scripts with ease.
 - [ProxMigrate](https://github.com/AthenaNetworks/ProxMigrate) - A powerful, user-friendly command-line tool for migrating virtual machines between Proxmox VE servers.
 - [Proxmox VM Autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) - Service that dynamically adjusts your Proxmox virtual machine (VM) resources (CPU cores, RAM) based on real-time metrics and user-defined thresholds.
