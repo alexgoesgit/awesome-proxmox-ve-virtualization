@@ -29,7 +29,7 @@
 - [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines. [[docs](https://convoypanel.com/docs/project/introduction.html)]
 - [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
 - [MultiPortal](https://multiportal.io/) - One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure.
-- [Proxmox Datacenter Manager](https://pve.proxmox.com/wiki/Proxmox_Datacenter_Manager_Roadmap) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments. (BETA)
+- [Proxmox Datacenter Manager](https://www.proxmox.com/en/downloads/proxmox-datacenter-manager) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments.
 
 # VPS control panels
 
