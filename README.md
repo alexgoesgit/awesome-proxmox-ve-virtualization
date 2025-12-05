@@ -110,6 +110,7 @@
 - [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 - [proxtagger](https://github.com/reginleif88/proxtagger) - A lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
 - [PVE-mods](https://github.com/Meliox/PVE-mods) - A small collection of scripts and mods for Proxmox Virtual Environment (PVE).
+- [pvetui](https://github.com/devnullvoid/pvetui) - A Terminal User Interface For Proxmox Virtual Environment.
 - [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - A Terraform / OpenTofu Provider which adds support for Proxmox solutions.
 
 # Mobile Apps
