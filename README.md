@@ -102,6 +102,7 @@
 - [Cluster API Provider for Proxmox VE (CAPMOX)](https://github.com/ionos-cloud/cluster-api-provider-proxmox) - The Cluster API brings declarative, Kubernetes-style APIs to cluster creation, configuration and management. Cluster API Provider for Proxmox VE is a concrete implementation of Cluster API for Proxmox VE.
 - [LXC AutoScale](https://github.com/fabriziosalmi/proxmox-lxc-autoscale) - Resource management daemon specifically designed for Proxmox environments. It automatically adjusts CPU and memory allocations with no downtime and can clone LXC containers based on real-time usage metrics and predefined thresholds.
 - [proxmox-backup](https://github.com/tis24dev/proxmox-backup) - Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.
+- [ProxCLMC](https://github.com/gyptazy/ProxCLMC) - Prox CPU Live Migration Checker is a lightweight tool to determine the maximum CPU compatibility level that is supported across all nodes in a Proxmox VE cluster.
 - [ProxMenux](https://github.com/MacRimi/ProxMenux) - A management tool for Proxmox VE that simplifies system administration through an interactive menu, allowing you to execute commands and scripts with ease.
 - [ProxMigrate](https://github.com/AthenaNetworks/ProxMigrate) - A powerful, user-friendly command-line tool for migrating virtual machines between Proxmox VE servers.
 - [Proxmox VM Autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) - Service that dynamically adjusts your Proxmox virtual machine (VM) resources (CPU cores, RAM) based on real-time metrics and user-defined thresholds.
@@ -109,6 +110,7 @@
 - [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems
 - [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 - [proxtagger](https://github.com/reginleif88/proxtagger) - A lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
+- [ProxSave](https://proxsave.dev/) - Proxmox PBS & PVE System Files Backup. ProxSave allows you to save your entire environment and restore it at any time.
 - [PVE-mods](https://github.com/Meliox/PVE-mods) - A small collection of scripts and mods for Proxmox Virtual Environment (PVE).
 - [pvetui](https://github.com/devnullvoid/pvetui) - A Terminal User Interface For Proxmox Virtual Environment.
 - [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - A Terraform / OpenTofu Provider which adds support for Proxmox solutions.
