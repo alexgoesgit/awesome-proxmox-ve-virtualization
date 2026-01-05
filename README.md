@@ -86,11 +86,13 @@
 
 # Documentation
 
+- [10 Ways to Ruin Your Proxmox Setup - And How Not To](https://github.com/SwamiRama/10-ways-to-ruin-proxmox) - Book about 10 common mistakes and how to avoid them.
 - [free-pmx](https://free-pmx.pages.dev/) - Insights and guides on Proxmox VE.
-- [Thomas Krenn Proxmox Wiki](https://www.thomas-krenn.com/de/wiki/Kategorie:Proxmox) - Several articles and howtos related to Proxmox VE.
+- [Proxmox Hardening Guide](https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide) - The project provides structured, actionable recommendations to secure Proxmox Virtual Environment and Proxmox Backup Server.
 - [Promxox VE Wiki](https://pve.proxmox.com/wiki/Main_Page) - Official Proxmox VE Wiki.
 - [Proxmox VE Documentation](https://pve.proxmox.com/pve-docs/) - Official Proxmox VE Documentation.
-  
+- [Thomas Krenn Proxmox Wiki](https://www.thomas-krenn.com/de/wiki/Kategorie:Proxmox) - Several articles and howtos related to Proxmox VE.
+    
 # Forums
 
 - [Proxmox Support Forum](https://forum.proxmox.com/) - Proxmox Community Forum.
