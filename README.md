@@ -15,6 +15,7 @@
 * [API](#api)
 * [Other Tools](#other-tools)
 * [Mobile Apps](#mobile-apps)
+* [Desktop Apps](#desktop-apps)
 * [Documentation](#documentation)
 * [Forums](#forums)
 * [Contributing](#contributing)
@@ -29,7 +30,8 @@
 - [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines. [[docs](https://convoypanel.com/docs/project/introduction.html)]
 - [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
 - [MultiPortal](https://multiportal.io/) - One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure.
-- [PegaProx](https://pegaprox.com/) - Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations – all in one beautiful interface. 
+- [PegaProx](https://pegaprox.com/) - Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations – all in one beautiful interface.
+- [ProxCenter](https://www.proxcenter.io/) - Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more — from a single pane of glass. 
 - [Proxmox Datacenter Manager](https://www.proxmox.com/en/downloads/proxmox-datacenter-manager) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments.
 
 # VPS control panels
@@ -68,6 +70,7 @@
 - [Dell PowerStore: Deploying Proxmox Virtual Environment](https://infohub.delltechnologies.com/en-us/t/dell-powerstore-deploying-proxmox-virtual-environment-white-paper/) - This white paper describes the deployment and configuration of Proxmox Virtual Environment on Dell PowerStore to create, manage, and monitor the virtual machines using shared storage.
 - [Setting Up Highly Available Storage for Proxmox Using LINSTOR](https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/) - Setting Up Highly Available Storage for Proxmox Using LINSTOR & the LINBIT GUI (DRBD)
 - [Netapp: Proxmox VE with ONTAP](https://docs.netapp.com/us-en/netapp-solutions/proxmox/proxmox-ontap.html) - Netapp ONTAP storage can serve the needs of Proxmox VE host environments as well as for guest file, block and object storage demands.
+- [Proxmox VE Plugin for HPE Nimble Storage (iSCSI)](https://github.com/brngates98/pve-nimble-plugin) - Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.
 - [Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source](https://github.com/kolesa-team/pve-purestorage-plugin) - Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).
 - [TrueNAS Proxmox VE Storage Plugin](https://github.com/WarlockSyno/TrueNAS-Proxmox-VE-Storage-Plugin) - A high-performance storage plugin for Proxmox VE that integrates TrueNAS SCALE via iSCSI, featuring live snapshots, ZFS integration, and cluster compatibility.
 
@@ -131,6 +134,11 @@
 - [ProxMate iOS](https://apps.apple.com/de/app/proxmate/id6470526961?platform=iphone) - Manage your Proxmox Server.
 - [ProxMobo: Proxmox VE & PBS Management](https://proxmobo.app/) - Powerful monitoring and management app for Proxmox VE and Proxmox Backup Server.
 - [ProxMate Backup](https://apps.apple.com/de/app/proxmate-backup/id6618157722) - Manage Proxmox Backup Servers.
+
+# Desktop Apps
+
+## MacOS
+- [ProxmoxBar](https://github.com/ryzenixx/proxmoxbar-macos) - Native macOS menu bar app for monitoring and controlling Proxmox VE resources. 
 
 # Contributing
 
