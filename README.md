@@ -8,6 +8,7 @@
 
 * [Proxmox VE](#proxmox-ve)
 * [Management](#management)
+* [VDI](#vdi)
 * [VPS control panels](#vps-control-panels)
 * [Monitoring](#monitoring)
 * [Backup Tools](#backup-tools)
@@ -35,6 +36,9 @@
 - [Proxmox Datacenter Manager](https://www.proxmox.com/en/downloads/proxmox-datacenter-manager) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments.
 - [Tainer](https://tainer.sh/) - A cloud dashboard for Proxmox VE. Deploy, manage, and monitor LXC containers and VMs from anywhere — no ports to open. Free tier available.
 
+# VDI
+- [Kasm Workspaces](https://docs.kasm.com/docs/latest/how-to/autoscale/autoscale_providers/proxmox) - Configuring autoscaling for Kasm Workspaces on Proxmox.
+
 # VPS control panels
 
 - [Proxmox VE VPS For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
@@ -48,6 +52,7 @@
 - [Netdata](https://www.netdata.cloud/integrations/data-collection/containers-and-vms/proxmox-ve/) - Netdata can be used to monitor all kinds of infrastructure, from tiny stand-alone IoT devices to complex hybrid setups combining on-premise and cloud infrastructure, mixing bare-metal servers, virtual machines and containers.
 - [PandoraFMS](https://pandorafms.com/blog/proxmox-ve-monitoring/) - Proxmox VE monitoring with Pandora FMS.
 - [Prometheus Proxmox VE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - This is an exporter that exposes information gathered from Proxmox VE node for use by the Prometheus monitoring system.
+- [Proxmox Atlas](https://proxmox-atlas.net/) - One dashboard. Every cluster. Real-time metrics, anomaly detection, and capacity planning.
 - [Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.
 - [VictoriaMetrics](https://victoriametrics.com/blog/proxmox-monitoring-with-dbaas/) - The High-Performance, Open Source Time Series Database & Monitoring Solution.
 - [Zabbix](https://www.zabbix.com/de/integrations/proxmox) - Template for monitoring Proxmox with Zabbix.
@@ -73,6 +78,7 @@
 - [Netapp: Proxmox VE with ONTAP](https://docs.netapp.com/us-en/netapp-solutions/proxmox/proxmox-ontap.html) - Netapp ONTAP storage can serve the needs of Proxmox VE host environments as well as for guest file, block and object storage demands.
 - [Proxmox VE Plugin for HPE Nimble Storage (iSCSI)](https://github.com/brngates98/pve-nimble-plugin) - Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.
 - [Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source](https://github.com/kolesa-team/pve-purestorage-plugin) - Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).
+- [StorPool Storage Powering Proxmox Virtual Environments](https://storpool.com/proxmox-virtual-environment) - Ultra-Fast, Reliable, and Scalable Block Storage as a Service for Proxmox Environments.
 - [TrueNAS Proxmox VE Storage Plugin](https://github.com/WarlockSyno/TrueNAS-Proxmox-VE-Storage-Plugin) - A high-performance storage plugin for Proxmox VE that integrates TrueNAS SCALE via iSCSI, featuring live snapshots, ZFS integration, and cluster compatibility.
 
 # API
