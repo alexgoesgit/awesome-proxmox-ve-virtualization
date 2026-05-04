@@ -128,6 +128,7 @@
 - [ProxSave](https://proxsave.dev/) - Proxmox PBS & PVE System Files Backup. ProxSave allows you to save your entire environment and restore it at any time.
 - [ProxSnap](https://github.com/gyptazy/ProxSnap) - A lightweight CLI tool for auditing and cleaning up snapshots across Proxmox VE clusters
 - [proxtagger](https://github.com/reginleif88/proxtagger) - A lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
+- [pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200ms boot.
 - [PVE-mods](https://github.com/Meliox/PVE-mods) - A small collection of scripts and mods for Proxmox Virtual Environment (PVE).
 - [pvetui](https://github.com/devnullvoid/pvetui) - A Terminal User Interface For Proxmox Virtual Environment.
 - [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - A Terraform / OpenTofu Provider which adds support for Proxmox solutions.
