@@ -11,6 +11,7 @@
 * [VDI](#vdi)
 * [VPS control panels](#vps-control-panels)
 * [Monitoring](#monitoring)
+* [Reporting](#reporting)
 * [Backup Tools](#backup-tools)
 * [Storage](#storage)
 * [API](#api)
@@ -57,6 +58,10 @@
 - [VictoriaMetrics](https://victoriametrics.com/blog/proxmox-monitoring-with-dbaas/) - The High-Performance, Open Source Time Series Database & Monitoring Solution.
 - [Zabbix](https://www.zabbix.com/de/integrations/proxmox) - Template for monitoring Proxmox with Zabbix.
 
+# Reporting
+- [cv4pve-report](https://github.com/Corsinvest/cv4pve-report) - Export Proxmox VE infrastructure to a navigable Excel, HTML or JSON report - like RVTools for Proxmox.
+- [Proxmox Report Generator](https://github.com/AungThuMyint/ProxmoxReportGenerator) - Report PDF Generator For Your Proxmox Virtual Environment.
+  
 # Backup Tools
 
 - [BACKUP EAGLE](https://www.backup-eagle.com/product/proxmox) - Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.
