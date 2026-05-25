@@ -12,6 +12,7 @@
 * [VPS control panels](#vps-control-panels)
 * [Monitoring](#monitoring)
 * [Reporting](#reporting)
+* [Inventory](#inventory)
 * [Backup Tools](#backup-tools)
 * [Storage](#storage)
 * [API](#api)
@@ -61,7 +62,13 @@
 # Reporting
 - [cv4pve-report](https://github.com/Corsinvest/cv4pve-report) - Export Proxmox VE infrastructure to a navigable Excel, HTML or JSON report - like RVTools for Proxmox.
 - [Proxmox Report Generator](https://github.com/AungThuMyint/ProxmoxReportGenerator) - Report PDF Generator For Your Proxmox Virtual Environment.
-  
+
+# Inventory
+- [iTop CMDB: Data collector for Proxmox](https://www.itophub.io/wiki/page?id=extensions:combodo-proxmox-data-collector) - Synchronize Proxmox managed devices into iTop.
+- [netbox Enterprise Proxmox VE Integration](https://netboxlabs.com/docs/integrations/platform-integrations/proxmox-ve/) - Synchronization of Proxmox Virtual Environment (Proxmox VE) infrastructure into NetBox.
+- [netbox-proxbox](https://www.emersonfelipesp.com/netbox-proxbox) - Netbox Plugin for integration between Proxmox and Netbox.
+- [Proxmox Virtual Environment CMDB importer](https://www.versio.io/en/import-proxmox-cmdb-configuration-item.html) - Import, historize and process virtualized infrastracture configuration items into Versio.io
+
 # Backup Tools
 
 - [BACKUP EAGLE](https://www.backup-eagle.com/product/proxmox) - Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.
