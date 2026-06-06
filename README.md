@@ -115,8 +115,7 @@
 - [Promxox VE Wiki](https://pve.proxmox.com/wiki/Main_Page) - Official Proxmox VE Wiki.
 - [Proxmox VE Documentation](https://pve.proxmox.com/pve-docs/) - Official Proxmox VE Documentation.
 - [Thomas Krenn Proxmox Wiki](https://www.thomas-krenn.com/de/wiki/Kategorie:Proxmox) - Several articles and howtos related to Proxmox VE.
-- [IdleWatt Homelab Mini-PC Dataset](https://github.com/SolvoHQ/homelab-mini-pc-dataset) - Open, cited dataset of the hardware facts that decide a Proxmox host: measured idle watts (not TDP), ECC, NIC chipset, RAM ceiling, IOMMU/GPU-passthrough behaviour and AMD reset-bug status, every field source-linked. Browsable finder at idlewatt.vercel.app.
-    
+ 
 # Forums
 
 - [Proxmox Support Forum](https://forum.proxmox.com/) - Proxmox Community Forum.
