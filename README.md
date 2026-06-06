@@ -149,7 +149,7 @@
 # Mobile Apps
 
 ## Android
-- [Proxmox VE Android App](https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend&pcampaignid=web_share) - Manage virtual machines, containers, hosts, and clusters. 
+- [Proxmox VE Android App](https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend&hl=en) - Official native mobile app for managing Proxmox VE.
 - [ProxMon - A Proxmox VE client](https://play.google.com/store/apps/details?id=dev.reimu.proxmon&pcampaignid=web_share) -  View Proxmox nodes, storage pools, VMs, and containers' statuses.
   
 ## iOS
@@ -157,6 +157,7 @@
 - [ProxMate iOS](https://apps.apple.com/de/app/proxmate/id6470526961?platform=iphone) - Manage your Proxmox Server.
 - [ProxMobo: Proxmox VE & PBS Management](https://proxmobo.app/) - Powerful monitoring and management app for Proxmox VE and Proxmox Backup Server.
 - [ProxMate Backup](https://apps.apple.com/de/app/proxmate-backup/id6618157722) - Manage Proxmox Backup Servers.
+- [Proxmox VE Companion](https://apps.apple.com/de/app/proxmox-ve-companion/id6748314140) - Official native mobile app for managing Proxmox VE.
 
 # Desktop Apps
 
