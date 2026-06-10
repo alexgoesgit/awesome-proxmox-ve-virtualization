@@ -19,6 +19,7 @@
 * [Other Tools](#other-tools)
 * [Mobile Apps](#mobile-apps)
 * [Desktop Apps](#desktop-apps)
+* [Security](#security)
 * [Documentation](#documentation)
 * [Forums](#forums)
 * [Contributing](#contributing)
@@ -112,7 +113,6 @@
 
 - [10 Ways to Ruin Your Proxmox Setup - And How Not To](https://github.com/SwamiRama/10-ways-to-ruin-proxmox) - Book about 10 common mistakes and how to avoid them.
 - [free-pmx](https://free-pmx.pages.dev/) - Insights and guides on Proxmox VE.
-- [Proxmox Hardening Guide](https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide) - The project provides structured, actionable recommendations to secure Proxmox Virtual Environment and Proxmox Backup Server.
 - [Promxox VE Wiki](https://pve.proxmox.com/wiki/Main_Page) - Official Proxmox VE Wiki.
 - [Proxmox VE Documentation](https://pve.proxmox.com/pve-docs/) - Official Proxmox VE Documentation.
 - [Thomas Krenn Proxmox Wiki](https://www.thomas-krenn.com/de/wiki/Kategorie:Proxmox) - Several articles and howtos related to Proxmox VE.
@@ -165,6 +165,11 @@
 
 ## MacOS
 - [ProxmoxBar](https://github.com/ryzenixx/proxmoxbar-macos) - Native macOS menu bar app for monitoring and controlling Proxmox VE resources. 
+
+# Security
+- [Proxmox Hardening Guide](https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide) - Security hardening guides for PVE and PBS, built on CIS Debian Benchmark with Proxmox specific best practices.
+- [Proxmox VE Security Advisories](https://forum.proxmox.com/threads/proxmox-virtual-environment-security-advisories.149331/) - List of security advisories since 2024-01-01 for the Proxmox Virtual Environment.
+- [Proxmox VE Security Reporting](https://pve.proxmox.com/wiki/Security_Reporting) - How to report security issues to the Proxmox security team.
 
 # Contributing
 
