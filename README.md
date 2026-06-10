@@ -150,7 +150,7 @@
 
 ## Android
 - [Proxmox VE Android App](https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend&hl=en) - Official native mobile app for managing Proxmox VE.
-- [ProxMan]([https://proxman.app](https://play.google.com/store/apps/details?id=com.windium.proxman&hl=en) - Lightweight Proxmox VE & Backup Server Management in Your Pocket.
+- [ProxMan](https://play.google.com/store/apps/details?id=com.windium.proxman&hl=en) - Lightweight Proxmox VE & Backup Server Management in Your Pocket.
 - [ProxMate Backup for Proxmox](https://play.google.com/store/apps/details?id=com.itss.proxmatebackup&hl=en) - Get a quick and easy overview of your Proxmox Backup Server.
 - [ProxMon - A Proxmox VE client](https://play.google.com/store/apps/details?id=dev.reimu.proxmon&pcampaignid=web_share) -  View Proxmox nodes, storage pools, VMs, and containers' statuses.
 
