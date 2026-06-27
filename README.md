@@ -137,6 +137,7 @@
 - [Proxmox VM Autoscale](https://github.com/fabriziosalmi/proxmox-vm-autoscale) - Service that dynamically adjusts your Proxmox virtual machine (VM) resources (CPU cores, RAM) based on real-time metrics and user-defined thresholds.
 - [ProxLB](https://github.com/gyptazy/ProxLB) - Application created to optimize the distribution of virtual machines (VMs) across Proxmox cluster nodes for significantly enhancing efficiency and performance.
 - [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems
+- [proxmox-ftagent](https://github.com/Flowtriq/proxmox-ftagent) - One-command LXC deployment of the Flowtriq DDoS detection agent on Proxmox VE, with automatic dependency and systemd service setup.
 - [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 - [ProxSave](https://proxsave.dev/) - Proxmox PBS & PVE System Files Backup. ProxSave allows you to save your entire environment and restore it at any time.
 - [ProxSnap](https://github.com/gyptazy/ProxSnap) - A lightweight CLI tool for auditing and cleaning up snapshots across Proxmox VE clusters
