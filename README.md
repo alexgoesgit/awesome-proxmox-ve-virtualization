@@ -6,6 +6,7 @@
 
 # Contents
 
+* [AI](#ai)
 * [API](#api)
 * [Autoscaling](#autoscaling)
 * [Backup Tools](#backup-tools)
@@ -30,6 +31,12 @@
 * [Contributing](#contributing)
 * [License](#license)
   
+
+# AI
+- [Proximo](https://github.com/john-broadway/proximo) - The Proxmox MCP you can hand the keys - VE + Backup Server + Mail Gateway + Datacenter Manager on one audited trust core (plan · prove · undo · diagnose). MCP + A2A. 
+- [ProxmoxMCP](https://github.com/canvrno/proxmoxmcp) - A Python-based MCP server for interacting with Proxmox hypervisors, providing a clean interface for managing nodes, VMs, and containers.
+- [ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents. 
+
 # API
 
 - [Proxmox API documentation](https://pve.proxmox.com/pve-docs/api-viewer/index.html) - Explore the official API documentation.
@@ -109,8 +116,10 @@
 
 - [Ansible Module - Proxmox VE Cluster](https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_module.html) - Management of instances in Proxmox VE cluster.
 - [Cluster API Provider for Proxmox VE (CAPMOX)](https://github.com/ionos-cloud/cluster-api-provider-proxmox) - The Cluster API brings declarative, Kubernetes-style APIs to cluster creation, configuration and management. Cluster API Provider for Proxmox VE is a concrete implementation of Cluster API for Proxmox VE.
+- [packer-plugin-proxmox](https://github.com/natrontech/packer-plugin-proxmox) - Packer plugin for Proxmox Builder.
 - [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Implements a self-contained GitOps environment for provisioning and orchestrating Linux Containers (LXC) on Proxmox VE.
 - [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - A Terraform / OpenTofu Provider which adds support for Proxmox solutions.
+
 
 # Inventory
 - [iTop CMDB: Data collector for Proxmox](https://www.itophub.io/wiki/page?id=extensions:combodo-proxmox-data-collector) - Synchronize Proxmox managed devices into iTop.
@@ -150,6 +159,7 @@
 # Monitoring
 
 - [CheckMK](https://checkmk.com/blog/proxmox-monitoring) - Proxmox Monitoring: How to Do it Efficiently with Checkmk.
+- [check_pve](https://github.com/nbuchwitz/check_pve) - Icinga check command for Proxmox VE via API.
 - [LPAR2RRD](https://lpar2rrd.com/Proxmox-monitoring.php) - Server Performance Monitoring Tool - agentless monitoring, all data is gathered from Proxmox API.
 - [Netdata](https://www.netdata.cloud/integrations/data-collection/containers-and-vms/proxmox-ve/) - Netdata can be used to monitor all kinds of infrastructure, from tiny stand-alone IoT devices to complex hybrid setups combining on-premise and cloud infrastructure, mixing bare-metal servers, virtual machines and containers.
 - [PandoraFMS](https://pandorafms.com/blog/proxmox-ve-monitoring/) - Proxmox VE monitoring with Pandora FMS.
@@ -185,6 +195,7 @@
 
 # VDI
 - [Kasm Workspaces](https://docs.kasm.com/docs/latest/how-to/autoscale/autoscale_providers/proxmox) - Configuring autoscaling for Kasm Workspaces on Proxmox.
+- [PVE-VDIClient](https://github.com/joshpatten/PVE-VDIClient) - Proxmox based VDI client.
 
 # VPS control panels
 
