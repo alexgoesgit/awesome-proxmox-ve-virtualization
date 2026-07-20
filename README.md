@@ -166,6 +166,7 @@
 * [Prometheus Proxmox VE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exporter that exposes information gathered from Proxmox VE nodes for use by the Prometheus monitoring system.
 * [Proxmox Atlas](https://proxmox-atlas.net/) - One dashboard. Every cluster. Real-time metrics, anomaly detection, and capacity planning.
 * [Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.
+* [PVE-UPS](https://github.com/ffind-dev/pve-ups) - GUI-based UPS shutdown appliance for Proxmox VE - a NUT alternative with a web wizard and no config files
 * [VictoriaMetrics](https://victoriametrics.com/blog/proxmox-monitoring-with-dbaas/) - The High-Performance, Open Source Time Series Database & Monitoring Solution.
 * [Zabbix](https://www.zabbix.com/de/integrations/proxmox) - Template for monitoring Proxmox with Zabbix.
 
