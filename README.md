@@ -108,6 +108,7 @@
 
 * [osx-proxmox](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery image auto-download, and AMD/Intel CPU support for Sonoma, Sequoia, and Tahoe.
 * [pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200ms boot.
+* [valheim-proxmox](https://github.com/PawelSzymanski89/valheim-proxmox) - One-command Valheim dedicated server LXC with a web panel for players, bans, worlds, backups and mods
 
 ## Infrastructure as Code
 
