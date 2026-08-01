@@ -107,6 +107,7 @@
 ## Guest Automation
 
 * [osx-proxmox](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery image auto-download, and AMD/Intel CPU support for Sonoma, Sequoia, and Tahoe.
+* [proxmox-guestos-customization](https://github.com/RobertLukan/proxmox-guestos-customization) - Community Sysprep sidecar to clone and customize Windows templates on Proxmox VE (hostname, network, AD/workgroup) via the QEMU guest agent.
 * [pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200ms boot.
 
 ## Infrastructure as Code
