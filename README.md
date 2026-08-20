@@ -2,6 +2,9 @@
 
 > A list of Proxmox VE related software, tools and documentation. This project is not affiliated with Proxmox.
 
+![GitHub License](https://img.shields.io/github/license/alexgoesgit/awesome-proxmox-ve-virtualization)
+![GitHub last commit](https://img.shields.io/github/last-commit/alexgoesgit/awesome-proxmox-ve-virtualization)
+
 ## Contents
 
 * [AI](#ai)
