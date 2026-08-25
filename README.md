@@ -25,6 +25,7 @@
 * [Monitoring](#monitoring)
 * [Proxmox VE](#proxmox-ve)
 * [Reporting](#reporting)
+* [Smarthome](#smarthome)
 * [Security](#security)
 * [Storage](#storage)
 * [VDI](#vdi)
@@ -162,6 +163,7 @@
 * [ProxMate Backup](https://apps.apple.com/de/app/proxmate-backup/id6618157722) - Manage Proxmox Backup Servers.
 * [ProxMate iOS](https://apps.apple.com/de/app/proxmate/id6470526961?platform=iphone) - Manage your Proxmox Server.
 * [ProxMobo: Proxmox VE & PBS Management](https://proxmobo.app/) - Powerful monitoring and management app for Proxmox VE and Proxmox Backup Server.
+* [Reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS and MacOS to monitor, manage, and automate a Proxmox VE homelab.
 
 ## Monitoring
 
@@ -186,6 +188,12 @@
 * [cv4pve-report](https://github.com/Corsinvest/cv4pve-report) - Export Proxmox VE infrastructure to a navigable Excel, HTML or JSON report - like RVTools for Proxmox.
 * [Proxmox Report Generator](https://github.com/AungThuMyint/ProxmoxReportGenerator) - Report PDF Generator For Your Proxmox Virtual Environment.
 
+## Smarthome
+
+* [Proxmox Extended Sensors (v4)](https://github.com/Javisen/proxmox_sensors) - Detailed monitoring & control system for Proxmox VE & PBS in Home Assistant.
+* [Proxmox VE Custom Integration for Home Assistant](https://github.com/dougiteixeira/proxmoxve) - This integration allows you to poll various data and controls from your Proxmox VE instance.
+* [Proxmox Suits](https://github.com/Sundancer78/proxmox-suits) - Home Assistant integration for monitoring Proxmox VE and Proxmox Backup Server (PBS) with tasks, datastores, and IEC (GiB) sensors.
+
 ## Security
 
 * [Proxmox Hardening Guide](https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide) - Security hardening guides for PVE and PBS, built on CIS Debian Benchmark with Proxmox specific best practices.
@@ -202,6 +210,7 @@
 * [Proxmox VE Plugin for HPE Nimble Storage (iSCSI)](https://github.com/brngates98/pve-nimble-plugin) - Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.
 * [Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source](https://github.com/kolesa-team/pve-purestorage-plugin) - Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).
 * [StorPool Storage Powering Proxmox Virtual Environments](https://storpool.com/proxmox-virtual-environment) - Ultra-Fast, Reliable, and Scalable Block Storage as a Service for Proxmox Environments.
+* [Snapbridge](https://github.com/abdoufermat5/snapbridge) - Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.
 * [TrueNAS Proxmox VE Storage Plugin](https://github.com/WarlockSyno/TrueNAS-Proxmox-VE-Storage-Plugin) - High-performance storage plugin for Proxmox VE that integrates TrueNAS SCALE via iSCSI, featuring live snapshots, ZFS integration, and cluster compatibility.
 
 ## VDI
