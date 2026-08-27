@@ -88,7 +88,7 @@
 ## Cluster Tools
 
 * [ProxCLMC](https://github.com/gyptazy/ProxCLMC) - Lightweight tool to determine the maximum CPU compatibility level supported across all nodes in a Proxmox VE cluster for live migration.
-* [ProxLB](https://github.com/gyptazy/ProxLB) - Application to optimize the distribution of virtual machines across Proxmox cluster nodes for enhanced efficiency and performance.
+* [ProxLB](https://github.com/credativ/ProxLB) - Application to optimize the distribution of virtual machines across Proxmox cluster nodes for enhanced efficiency and performance.
 
 ## Desktop Apps
 
