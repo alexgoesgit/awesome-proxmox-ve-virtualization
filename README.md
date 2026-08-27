@@ -28,6 +28,7 @@
 * [Smarthome](#smarthome)
 * [Security](#security)
 * [Storage](#storage)
+* [Tutorials, Blogs & Video](#tutorials-blogs--video)
 * [VDI](#vdi)
 * [VPS control panels](#vps-control-panels)
 
@@ -41,7 +42,8 @@
 
 * [Proxmox API documentation](https://pve.proxmox.com/pve-docs/api-viewer/index.html) - Explore the official API documentation.
 * Go
-  * [Proxmox API Go](https://github.com/Telmate/proxmox-api-go) - Proxmox API in golang. For /api2/json.
+  * [go-proxmox](https://github.com/luthermonson/go-proxmox) - Typed Go client for the Proxmox VE REST API.
+  * [Proxmox API Go](https://github.com/Telmate/proxmox-api-go) - Proxmox API in golang. For /api2/json.  
 * Java
   * [Proxmox VE Client API Java](https://github.com/Corsinvest/cv4pve-api-java) - Java API client Libraries.
 * Perl
@@ -63,13 +65,16 @@
 * [BDRSuite](https://www.bdrsuite.com/proxmox-backup/) - Comprehensive backup and disaster recovery solution for virtual, physical, cloud, and SaaS applications with agentless backup for Proxmox VMs ([docs](https://www.bdrsuite.com/technical-documents/), [download](https://www.bdrsuite.com/vembu-bdr-suite-download/)).
 * [Catalogic DPX](https://www.catalogicsoftware.com/portfolio/proxmox/) - Integrates seamlessly with Proxmox Virtual Environment (VE). DPX vPlus enables agentless Proxmox backup and recovery.
 * [Commvault Backup&Recovery](https://www.commvault.com/use-cases/backup-and-recovery) - Protects VMs hosted in Proxmox Virtual Environment ([docs](https://documentation.commvault.com/11.38/essential/backups_for_proxmox_vms.html)).
+* [cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.
 * [Joulenap](https://github.com/Joulenap/joulenap) - Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.
 * [NAKIVO Backup & Replication](https://www.nakivo.com/proxmox-backup/) - Backup, replication, failover, cloud/tape backup, granular restore, and disaster recovery orchestration for virtual, physical, cloud, and SaaS environments ([trial](https://www.nakivo.com/resources/download/trial-download/), [docs](https://helpcenter.nakivo.com/User-Guide/Content/Home.htm)).
+* [Proxmox Backup Client](https://pbs.proxmox.com/docs/backup-client.html) - Official command-line client for Proxmox Backup Server, including host, VM, and file backups.
 * [Proxmox Backup Server](https://proxmox.com/en/products/proxmox-backup-server/overview) - Enterprise backup solution for backing up and restoring VMs, containers, and physical hosts ([download](https://proxmox.com/en/downloads/proxmox-backup-server), [docs](https://pbs.proxmox.com/docs/installation.html)).
 * [proxmox-backup](https://github.com/tis24dev/proxmox-backup) - Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.
 * [ProxSave](https://proxsave.dev/) - Proxmox PBS & PVE system files backup. Save your entire environment and restore it at any time.
 * [ProxSnap](https://github.com/gyptazy/ProxSnap) - Lightweight CLI tool for auditing and cleaning up snapshots across Proxmox VE clusters.
 * [pve-bindsnap](https://github.com/bitranox/pve-bindsnap) - Snapshot LXC containers that have bind/device mounts, which stock Proxmox greys out, via a small AGPL overlay. Can also exclude specific volumes from a snapshot; works with the GUI, API, pct and cv4pve-autosnap.
+* [pve-zsync](https://pve.proxmox.com/wiki/PVE-zsync) - Official ZFS replication helper for copying VM and container datasets between hosts.
 * [SEP sesam for Proxmox Virtual Environment](https://www.sep.de/solutions/proxmox-hypervisor/) - Efficient data protection for virtual machines running on Proxmox VE.
 * [Storware Backup&Recovery](https://storware.eu/solutions/virtual-machine-backup-and-recovery/proxmox-ve-backup-and-recovery/) - Comprehensive data protection for virtual machines, containers, and files on Proxmox VE.
 * [Veeam Backup for Proxmox](https://www.veeam.com/blog/veeam-backup-for-proxmox.html) - Well-known Enterprise backup solution.
@@ -77,12 +82,15 @@
 
 ## CLI & Community Tools
 
+* [cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) - kubectl-style remote CLI for Proxmox VE with multi-cluster contexts and shell completion.
+* [dockur/proxmox](https://github.com/dockur/proxmox) - Full Proxmox VE node running inside a Docker container, for labs and CI.
 * [Proxmox Manager](https://github.com/TimInTech/proxmox-manager) - Single-file Bash tool for managing Proxmox VMs and containers.
 * [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 * [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.
 * [ProxMenux](https://github.com/MacRimi/ProxMenux) - Management tool for Proxmox VE that simplifies system administration through an interactive menu.
 * [proxtagger](https://github.com/reginleif88/proxtagger) - Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
 * [PVE-mods](https://github.com/Meliox/PVE-mods) - Small collection of scripts and mods for Proxmox Virtual Environment (PVE).
+* [PVE Scripts Local](https://github.com/community-scripts/ProxmoxVE-Local) - Local web UI to browse and run Proxmox VE Helper-Scripts without curl-to-bash from the site.
 * [pvetui](https://github.com/devnullvoid/pvetui) - Terminal User Interface for Proxmox Virtual Environment.
 
 ## Cluster Tools
@@ -106,6 +114,7 @@
 
 ## Forums
 
+* [Discord: Proxcord](https://discord.gg/w9Y5UPz4FG) - Unofficial Discord server for Proxmox VE.
 * [Proxmox Support Forum](https://forum.proxmox.com/) - Proxmox Community Forum.
 * [Reddit: Proxmox](https://www.reddit.com/r/Proxmox/) - Main subreddit regarding the Proxmox hypervisor.
 
@@ -118,11 +127,15 @@
 
 ## Infrastructure as Code
 
-* [Ansible Module - Proxmox VE Cluster](https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_module.html) - Management of instances in Proxmox VE cluster.
+* [Ansible Collection - community.proxmox](https://github.com/ansible-collections/community.proxmox) - Canonical Ansible collection for managing Proxmox VE clusters, VMs, and containers.
+* [Ansible Role - Proxmox](https://github.com/lae/ansible-role-proxmox) - Ansible role for installing and configuring Proxmox VE clusters.
 * [Cluster API Provider for Proxmox VE (CAPMOX)](https://github.com/ionos-cloud/cluster-api-provider-proxmox) - Kubernetes-style declarative APIs for cluster creation, configuration, and management on Proxmox VE.
+* [Hashicorp packer-plugin-proxmox](https://github.com/hashicorp/packer-plugin-proxmox) - Official HashiCorp Packer plugin for building Proxmox VM templates.
+* [OpenTofu Provider for Proxmox](https://search.opentofu.org/provider/bpg/proxmox/latest) - OpenTofu provider which adds support for Proxmox solutions
 * [packer-plugin-proxmox](https://github.com/natrontech/packer-plugin-proxmox) - Packer plugin for Proxmox Builder.
 * [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Self-contained GitOps environment for provisioning and orchestrating Linux Containers (LXC) on Proxmox VE.
-* [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu provider which adds support for Proxmox solutions.
+* [Pulumi Proxmox VE](https://github.com/muhlba91/pulumi-proxmoxve) - Pulumi provider for creating and managing Proxmox VE resources.
+* [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform provider which adds support for Proxmox solutions.
 
 ## Inventory
 
@@ -140,11 +153,12 @@
 * [MultiPortal](https://multiportal.io/) - One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure.
 * [PegaProx](https://pegaprox.com/) - Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations – all in one beautiful interface.
 * [ProxCenter](https://www.proxcenter.io/) - Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more — from a single pane of glass.
-* [Proxmox Datacenter Manager](https://www.proxmox.com/en/downloads/proxmox-datacenter-manager) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments.
+* [Proxmox Datacenter Manager](https://www.proxmox.com/en/downloads/proxmox-datacenter-manager) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments ([docs](https://pdm.proxmox.com/docs/introduction.html)).
 * [Tainer](https://tainer.sh/) - A cloud dashboard for Proxmox VE. Deploy, manage, and monitor LXC containers and VMs from anywhere — no ports to open. Free tier available.
 
 ## Migration
 
+* [Migrate to Proxmox VE](https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE) - Official guide for moving VMs to Proxmox VE, including the ESXi import wizard.
 * [ProxMigrate](https://github.com/AthenaNetworks/ProxMigrate) - Powerful, user-friendly command-line tool for migrating virtual machines between Proxmox VE servers.
 
 ## Mobile Apps
@@ -169,9 +183,11 @@
 
 * [CheckMK](https://checkmk.com/blog/proxmox-monitoring) - Proxmox Monitoring: How to Do it Efficiently with Checkmk.
 * [check_pve](https://github.com/nbuchwitz/check_pve) - Icinga check command for Proxmox VE via API.
+* [Grafana: Proxmox via Prometheus](https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/) - Standard Grafana dashboard for the Prometheus Proxmox VE exporter.
 * [LPAR2RRD](https://lpar2rrd.com/Proxmox-monitoring.php) - Server Performance Monitoring Tool - agentless monitoring, all data is gathered from Proxmox API.
 * [Netdata](https://www.netdata.cloud/integrations/data-collection/containers-and-vms/proxmox-ve/) - Real-time monitoring for infrastructure ranging from IoT devices to hybrid cloud environments with Proxmox VE support.
 * [PandoraFMS](https://pandorafms.com/blog/proxmox-ve-monitoring/) - Proxmox VE monitoring with Pandora FMS.
+* [pbs-exporter](https://github.com/natrontech/pbs-exporter) - Prometheus exporter for Proxmox Backup Server.
 * [Prometheus Proxmox VE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exporter that exposes information gathered from Proxmox VE nodes for use by the Prometheus monitoring system.
 * [Proxmox Atlas](https://proxmox-atlas.net/) - One dashboard. Every cluster. Real-time metrics, anomaly detection, and capacity planning.
 * [Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.
@@ -212,6 +228,14 @@
 * [StorPool Storage Powering Proxmox Virtual Environments](https://storpool.com/proxmox-virtual-environment) - Ultra-Fast, Reliable, and Scalable Block Storage as a Service for Proxmox Environments.
 * [Snapbridge](https://github.com/abdoufermat5/snapbridge) - Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.
 * [TrueNAS Proxmox VE Storage Plugin](https://github.com/WarlockSyno/TrueNAS-Proxmox-VE-Storage-Plugin) - High-performance storage plugin for Proxmox VE that integrates TrueNAS SCALE via iSCSI, featuring live snapshots, ZFS integration, and cluster compatibility.
+
+## Tutorials, Blogs & Video
+
+* [Lawrence Systems](https://www.youtube.com/c/LawrenceSystems/search?query=proxmox) - Enterprise and security-focused Proxmox VE videos.
+* [Proxmox Server Solutions](https://www.youtube.com/@ProxmoxVe) - Official YouTube channel for releases, webinars, and product features.
+* [ServeTheHome](https://www.servethehome.com/tag/proxmox-ve/) - Hardware and Proxmox VE guides ([YouTube](https://www.youtube.com/c/ServeTheHomeVideo)).
+* [Techno Tim](https://technotim.live/tags/proxmox/) - Homelab blog and videos covering clusters, backups, and helper scripts ([YouTube](https://www.youtube.com/c/TechnoTimLive)).
+* [VirtualizationHowTo](https://www.virtualizationhowto.com/tag/proxmox-ve/) - Proxmox VE tutorials and tool roundups.
 
 ## VDI
 
