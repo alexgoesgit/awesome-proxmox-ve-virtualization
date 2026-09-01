@@ -48,6 +48,8 @@
   * [Proxmox VE Client API Java](https://github.com/Corsinvest/cv4pve-api-java) - Java API client Libraries.
 * Perl
   * [Proxmox Perl API client](https://git.proxmox.com/?p=pve-apiclient.git;a=summary) - Official Proxmox Maintained Perl API.
+* PHP
+  * [cv4pve-api-php](https://github.com/Corsinvest/cv4pve-api-php) - Proxmox VE Client API for PHP.
 * Powershell
   * [PowerShell for Proxmox VE](https://www.powershellgallery.com/packages/Corsinvest.ProxmoxVE.Api/) - CmdLet for PowerShell to manage Proxmox VE.
 * Python
@@ -87,6 +89,7 @@
 * [Proxmox Manager](https://github.com/TimInTech/proxmox-manager) - Single-file Bash tool for managing Proxmox VMs and containers.
 * [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 * [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.
+* [Proxmox VMID Updater](https://github.com/sannier3/proxmox-vmid-updater) - Interactive Proxmox VM/LXC ID renaming script with automatic logging, safety checks, and storage path updates.
 * [ProxMenux](https://github.com/MacRimi/ProxMenux) - Management tool for Proxmox VE that simplifies system administration through an interactive menu.
 * [proxtagger](https://github.com/reginleif88/proxtagger) - Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
 * [PVE-mods](https://github.com/Meliox/PVE-mods) - Small collection of scripts and mods for Proxmox Virtual Environment (PVE).
@@ -183,8 +186,10 @@
 
 * [CheckMK](https://checkmk.com/blog/proxmox-monitoring) - Proxmox Monitoring: How to Do it Efficiently with Checkmk.
 * [check_pve](https://github.com/nbuchwitz/check_pve) - Icinga check command for Proxmox VE via API.
+* [Datadog](https://docs.datadoghq.com/integrations/proxmox/) - Observability and security platform used to monitor applications, infrastructure, logs, networks, user experience, and cloud environments at any scale.
 * [Grafana: Proxmox via Prometheus](https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/) - Standard Grafana dashboard for the Prometheus Proxmox VE exporter.
 * [LPAR2RRD](https://lpar2rrd.com/Proxmox-monitoring.php) - Server Performance Monitoring Tool - agentless monitoring, all data is gathered from Proxmox API.
+* [ManageEngine OpManager](https://www.manageengine.com/network-monitoring/proxmox-monitoring.html) -  Network and IT‑infrastructure monitoring platform.
 * [Netdata](https://www.netdata.cloud/integrations/data-collection/containers-and-vms/proxmox-ve/) - Real-time monitoring for infrastructure ranging from IoT devices to hybrid cloud environments with Proxmox VE support.
 * [PandoraFMS](https://pandorafms.com/blog/proxmox-ve-monitoring/) - Proxmox VE monitoring with Pandora FMS.
 * [pbs-exporter](https://github.com/natrontech/pbs-exporter) - Prometheus exporter for Proxmox Backup Server.
@@ -193,6 +198,7 @@
 * [Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.
 * [PVE-UPS](https://github.com/ffind-dev/pve-ups) - GUI-based UPS shutdown appliance for Proxmox VE - a NUT alternative with a web wizard and no config files
 * [VictoriaMetrics](https://victoriametrics.com/blog/proxmox-monitoring-with-dbaas/) - The High-Performance, Open Source Time Series Database & Monitoring Solution.
+* [XorMon](https://xormon.com/server/monitoring/Proxmox/Proxmox-monitoring.php) - Unified performance monitoring across servers, virtualization platforms, storage systems, databases, containers, and cloud environments.
 * [Zabbix](https://www.zabbix.com/de/integrations/proxmox) - Template for monitoring Proxmox with Zabbix.
 
 ## Proxmox VE
