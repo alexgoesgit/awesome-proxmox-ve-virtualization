@@ -28,6 +28,7 @@
 * [Smarthome](#smarthome)
 * [Security](#security)
 * [Storage](#storage)
+* [Trainings](#trainings)
 * [Tutorials, Blogs & Video](#tutorials-blogs--video)
 * [VDI](#vdi)
 * [VPS control panels](#vps-control-panels)
@@ -235,6 +236,13 @@
 * [Snapbridge](https://github.com/abdoufermat5/snapbridge) - Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.
 * [TrueNAS Proxmox VE Storage Plugin](https://github.com/WarlockSyno/TrueNAS-Proxmox-VE-Storage-Plugin) - High-performance storage plugin for Proxmox VE that integrates TrueNAS SCALE via iSCSI, featuring live snapshots, ZFS integration, and cluster compatibility.
 
+## Trainings
+
+* [Croit Academy](https://www.croit.io/academy/topics/proxmox) - Proxmox VE trainings and workshops by working engineers.
+* [Fast Lane](https://www.flane.de/en/courses/proxmox) - Hands-on Proxmox training courses.
+* [Proxmox VE Training Courses](https://www.proxmox.com/en/services/training-courses/training) - Official Proxmox VE training courses from Proxmox Server Solutions GmbH.
+* [Udemy: Proxmox VE courses](https://www.udemy.com/courses/search/?src=ukw&q=Proxmox&ratings=4.5&lang=en&lang=de) - Online learning platform with several Proxmox VE training courses.
+  
 ## Tutorials, Blogs & Video
 
 * [Lawrence Systems](https://www.youtube.com/c/LawrenceSystems/search?query=proxmox) - Enterprise and security-focused Proxmox VE videos.
