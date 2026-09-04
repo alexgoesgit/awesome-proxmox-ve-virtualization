@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Awesome Proxmox VE Virtualization</title>
+    <meta
+      name="description"
+      content="A curated list of Proxmox VE related software, tools and documentation."
+    />
+    <meta name="theme-color" content="#2563eb" />
+    <link rel="canonical" href="https://alexgoesgit.github.io/awesome-proxmox-ve-virtualization/" />
+    <meta property="og:title" content="Awesome Proxmox VE Virtualization" />
+    <meta
+      property="og:description"
+      content="A curated list of Proxmox VE related software, tools and documentation."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="hero.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Syne:wght@700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%232563eb'/><rect x='7' y='7' width='8' height='8' rx='2' fill='%23fff' opacity='.95'/><rect x='17' y='7' width='8' height='8' rx='2' fill='%23fff' opacity='.7'/><rect x='7' y='17' width='8' height='8' rx='2' fill='%23fff' opacity='.7'/><rect x='17' y='17' width='8' height='8' rx='2' fill='%23fff' opacity='.45'/></svg>" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#catalog">Skip to list</a>
+
+    <header class="site-header">
+      <a class="brand-mark" href="#top" aria-label="Awesome Proxmox VE home">
+        <svg viewBox="0 0 32 32" aria-hidden="true">
+          <rect width="32" height="32" rx="8" fill="#2563eb" />
+          <rect x="7" y="7" width="8" height="8" rx="2" fill="#fff" opacity="0.95" />
+          <rect x="17" y="7" width="8" height="8" rx="2" fill="#fff" opacity="0.7" />
+          <rect x="7" y="17" width="8" height="8" rx="2" fill="#fff" opacity="0.7" />
+          <rect x="17" y="17" width="8" height="8" rx="2" fill="#fff" opacity="0.45" />
+        </svg>
+        <span>Awesome Proxmox VE</span>
+      </a>
+      <a
+        class="header-github"
+        href="https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization"
+        rel="noopener noreferrer"
+        target="_blank"
+        aria-label="View on GitHub"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor">
+          <path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.342-3.369-1.342-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.744 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/>
+        </svg>
+      </a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-label="Introduction">
+        <div class="hero-media" aria-hidden="true">
+          <img
+            src="hero.jpg"
+            alt=""
+            width="2000"
+            height="1333"
+            fetchpriority="high"
+          />
+        </div>
+        <div class="hero-content">
+          <h1 class="hero-brand">Awesome <span>Proxmox VE</span>Virtualization</h1>
+          <p class="hero-lead">
+            A list of Proxmox VE related software, tools and documentation. 
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#catalog">Browse the list</a>
+            <a
+              class="btn btn-ghost"
+              href="https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization"
+              rel="noopener noreferrer"
+              target="_blank"
+              >View on GitHub</a
+            >
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" aria-label="Search and filters">
+        <div class="search-wrap">
+          <label for="search">Search tools and docs</label>
+          <input
+            id="search"
+            type="search"
+            placeholder="Try backup, terraform, monitoring…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+        </div>
+        <div class="meta-row">
+          <div id="result-meta">Loading catalog…</div>
+          <div class="chip-row" id="category-chips" aria-label="Categories"></div>
+        </div>
+      </section>
+
+      <div id="empty" class="empty" role="status">
+        No matches. Try another keyword or clear the category filter.
+      </div>
+
+      <div id="catalog" class="catalog" aria-live="polite"></div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <strong>Awesome Proxmox VE Virtualization</strong>
+        <p>
+          Community-curated list. Not affiliated with Proxmox Server Solutions GmbH. Licensed under CC0-1.0.
+        </p>
+        <p id="last-commit" class="footer-commit" hidden></p>
+        <p class="footer-photo">
+          Hero photo from <a href="https://unsplash.com/de/fotos/blaue-wand-mit-lichtbandern-tREpYEw-I_E" rel="noopener noreferrer" target="_blank">Cai Fang</a> on <a href="https://unsplash.com" rel="noopener noreferrer" target="_blank">Unsplash</a>
+        </p>
+        <div class="footer-links">
+          <a
+            href="https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Source repository</a
+          >
+          <a
+            href="https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/blob/main/contributing.md"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Contribute</a
+          >          
+        </div>
+      </div>
+    </footer>
+
+    <button id="back-to-top" class="back-to-top" aria-label="Back to top" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="18 15 12 9 6 15"/>
+      </svg>
+    </button>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
