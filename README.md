@@ -67,6 +67,7 @@
 * [Bacula Enterprise](https://www.baculasystems.com/corporate-data-backup-software-solutions/bacula-enterprise-data-backup-software/features/) - Subscription-based enterprise data backup solution with a Proxmox plugin for the latest PVE releases.
 * [BDRSuite](https://www.bdrsuite.com/proxmox-backup/) - Comprehensive backup and disaster recovery solution for virtual, physical, cloud, and SaaS applications with agentless backup for Proxmox VMs ([docs](https://www.bdrsuite.com/technical-documents/), [download](https://www.bdrsuite.com/vembu-bdr-suite-download/)).
 * [Catalogic DPX](https://www.catalogicsoftware.com/portfolio/proxmox/) - Integrates seamlessly with Proxmox Virtual Environment (VE). DPX vPlus enables agentless Proxmox backup and recovery.
+* [Cloud-PBS](https://cloud-pbs.com/) - Fast, secure and scalable cloud backup server for your Proxmox VE infrastructure.
 * [Commvault Backup&Recovery](https://www.commvault.com/use-cases/backup-and-recovery) - Protects VMs hosted in Proxmox Virtual Environment ([docs](https://documentation.commvault.com/11.38/essential/backups_for_proxmox_vms.html)).
 * [cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.
 * [Joulenap](https://github.com/Joulenap/joulenap) - Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.
@@ -154,6 +155,7 @@
 * [AtlasPVE](https://atlaspve.com) - Safety-first control panel for Proxmox VE: shows what each action touches before you run it, guarded host updates (dry-run, pre-snapshot, boot-guard), storage and topology maps, built-in watchdog ([live demo](https://demo.atlaspve.com)).
 * [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines ([docs](https://convoypanel.com/docs/project/introduction.html)).
 * [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
+* [ferrum](https://github.com/anand34577/ferrum) - Fleet control for Proxmox VE — a single dashboard for every cluster and standalone node you run, with live inventory, dashboards, backups, HA , firewall, alerting, and more.
 * [MultiPortal](https://multiportal.io/) - One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure.
 * [PegaProx](https://pegaprox.com/) - Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations – all in one beautiful interface.
 * [ProxCenter](https://www.proxcenter.io/) - Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more — from a single pane of glass.
@@ -226,12 +228,14 @@
 
 ## Storage
 
+* [ANAS](https://github.com/ccebelenski/anas) - The storage layer Proxmox VE doesn't have, inside the Proxmox web UI. ZFS and mixed-size Hybrid RAID pools, SMB/NFS shares, an iSCSI target, snapshots and schedules, replication, backup and restore to PBS — as native panels on the PVE node.
 * [Dell PowerStore: Deploying Proxmox Virtual Environment](https://infohub.delltechnologies.com/en-us/t/dell-powerstore-deploying-proxmox-virtual-environment-white-paper/) - White paper on deploying and configuring Proxmox Virtual Environment on Dell PowerStore with shared storage.
 * [Everpure: Technology Integrations - Proxmox](https://support.everpuredata.com/access?dita:id=m_proxmox) - Guidance on how to leverage Everpure FlashArray with iSCSI, FC or NFS.
 * [Setting Up Highly Available Storage for Proxmox Using LINSTOR](https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/) - Guide to DRBD-based highly available storage for Proxmox using LINSTOR and the LINBIT GUI.
 * [Netapp: Proxmox VE with ONTAP](https://docs.netapp.com/us-en/netapp-solutions/proxmox/proxmox-ontap.html) - Netapp ONTAP storage can serve the needs of Proxmox VE host environments as well as for guest file, block and object storage demands.
 * [Proxmox VE Plugin for HPE Nimble Storage (iSCSI)](https://github.com/brngates98/pve-nimble-plugin) - Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.
 * [Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source](https://github.com/kolesa-team/pve-purestorage-plugin) - Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).
+* [SharedLVM](https://github.com/delltech1/proxmox-sharedlvmthin) - Snapshot-capable shared FC/iSCSI SAN storage for Proxmox VE 9 clusters, with Thin Pools and Thick Generations over an existing shared LVM VG.
 * [StorPool Storage Powering Proxmox Virtual Environments](https://storpool.com/proxmox-virtual-environment) - Ultra-Fast, Reliable, and Scalable Block Storage as a Service for Proxmox Environments.
 * [Snapbridge](https://github.com/abdoufermat5/snapbridge) - Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.
 * [TrueNAS Proxmox VE Storage Plugin](https://github.com/truenas/truenas-proxmox-plugin) - High-performance storage plugin for Proxmox VE that integrates TrueNAS SCALE via iSCSI, featuring live snapshots, ZFS integration, and cluster compatibility.
