@@ -12,19 +12,22 @@
           "name": "Proximo",
           "url": "https://github.com/john-broadway/proximo",
           "description": "MCP server for Proxmox VE, Backup Server, Mail Gateway, and Datacenter Manager with audited trust core (plan, prove, undo, diagnose). MCP + A2A.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "ProxmoxMCP",
           "url": "https://github.com/canvrno/proxmoxmcp",
           "description": "Python-based MCP server for interacting with Proxmox hypervisors, providing a clean interface for managing nodes, VMs, and containers.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "ProxmoxMCP-Plus",
           "url": "https://github.com/RekklesNA/ProxmoxMCP-Plus",
           "description": "MCP and OpenAPI integration to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -37,7 +40,8 @@
           "name": "Proxmox API documentation",
           "url": "https://pve.proxmox.com/pve-docs/api-viewer/index.html",
           "description": "Explore the official API documentation.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico"
         }
       ],
       "subgroups": [
@@ -48,13 +52,15 @@
               "name": "go-proxmox",
               "url": "https://github.com/luthermonson/go-proxmox",
               "description": "Typed Go client for the Proxmox VE REST API.",
-              "links": []
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/github/181717"
             },
             {
               "name": "Proxmox API Go",
               "url": "https://github.com/Telmate/proxmox-api-go",
               "description": "Proxmox API in golang. For /api2/json.",
-              "links": []
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/github/181717"
             }
           ]
         },
@@ -65,7 +71,8 @@
               "name": "Proxmox VE Client API Java",
               "url": "https://github.com/Corsinvest/cv4pve-api-java",
               "description": "Java API client Libraries.",
-              "links": []
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/github/181717"
             }
           ]
         },
@@ -76,7 +83,8 @@
               "name": "Proxmox Perl API client",
               "url": "https://git.proxmox.com/?p=pve-apiclient.git;a=summary",
               "description": "Official Proxmox Maintained Perl API.",
-              "links": []
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/git/F05032"
             }
           ]
         },
@@ -87,7 +95,8 @@
               "name": "cv4pve-api-php",
               "url": "https://github.com/Corsinvest/cv4pve-api-php",
               "description": "Proxmox VE Client API for PHP.",
-              "links": []
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/github/181717"
             }
           ]
         },
@@ -98,7 +107,8 @@
               "name": "PowerShell for Proxmox VE",
               "url": "https://www.powershellgallery.com/packages/Corsinvest.ProxmoxVE.Api/",
               "description": "CmdLet for PowerShell to manage Proxmox VE.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/www.powershellgallery.com.ico"
             }
           ]
         },
@@ -109,7 +119,8 @@
               "name": "proxmoxer",
               "url": "https://pypi.org/project/proxmoxer",
               "description": "Python wrapper around the Proxmox REST API v2.",
-              "links": []
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/pypi/3775A9"
             }
           ]
         }
@@ -123,13 +134,15 @@
           "name": "LXC AutoScale",
           "url": "https://github.com/fabriziosalmi/proxmox-lxc-autoscale",
           "description": "Resource management daemon specifically designed for Proxmox environments. It automatically adjusts CPU and memory allocations with no downtime and can clone LXC containers based on real-time usage metrics and predefined thresholds.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox VM Autoscale",
           "url": "https://github.com/fabriziosalmi/proxmox-vm-autoscale",
           "description": "Service that dynamically adjusts your Proxmox virtual machine (VM) resources (CPU cores, RAM) based on real-time metrics and user-defined thresholds.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -142,13 +155,15 @@
           "name": "BACKUP EAGLE",
           "url": "https://www.backup-eagle.com/product/proxmox",
           "description": "Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.backup-eagle.com.ico"
         },
         {
           "name": "Bacula Enterprise",
           "url": "https://www.baculasystems.com/corporate-data-backup-software-solutions/bacula-enterprise-data-backup-software/features/",
           "description": "Subscription-based enterprise data backup solution with a Proxmox plugin for the latest PVE releases.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.baculasystems.com.ico"
         },
         {
           "name": "BDRSuite",
@@ -163,19 +178,22 @@
               "label": "download",
               "url": "https://www.bdrsuite.com/vembu-bdr-suite-download/"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.bdrsuite.com.ico"
         },
         {
           "name": "Catalogic DPX",
           "url": "https://www.catalogicsoftware.com/portfolio/proxmox/",
           "description": "Integrates seamlessly with Proxmox Virtual Environment (VE). DPX vPlus enables agentless Proxmox backup and recovery.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.catalogicsoftware.com.ico"
         },
         {
           "name": "Cloud-PBS",
           "url": "https://cloud-pbs.com/",
           "description": "Fast, secure and scalable cloud backup server for your Proxmox VE infrastructure.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/cloud-pbs.com.ico"
         },
         {
           "name": "Commvault Backup&Recovery",
@@ -186,19 +204,22 @@
               "label": "docs",
               "url": "https://documentation.commvault.com/11.38/essential/backups_for_proxmox_vms.html"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.commvault.com.ico"
         },
         {
           "name": "cv4pve-autosnap",
           "url": "https://github.com/Corsinvest/cv4pve-autosnap",
           "description": "Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Joulenap",
           "url": "https://github.com/Joulenap/joulenap",
           "description": "Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "NAKIVO Backup & Replication",
@@ -213,13 +234,15 @@
               "label": "docs",
               "url": "https://helpcenter.nakivo.com/User-Guide/Content/Home.htm"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.nakivo.com.ico"
         },
         {
           "name": "Proxmox Backup Client",
           "url": "https://pbs.proxmox.com/docs/backup-client.html",
           "description": "Official command-line client for Proxmox Backup Server, including host, VM, and file backups.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pbs.proxmox.com.ico"
         },
         {
           "name": "Proxmox Backup Server",
@@ -234,55 +257,64 @@
               "label": "docs",
               "url": "https://pbs.proxmox.com/docs/installation.html"
             }
-          ]
+          ],
+          "favicon": "https://cdn.simpleicons.org/proxmox/E57000"
         },
         {
           "name": "proxmox-backup",
           "url": "https://github.com/tis24dev/proxmox-backup",
           "description": "Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "ProxSave",
           "url": "https://proxsave.dev/",
           "description": "Proxmox PBS & PVE system files backup. Save your entire environment and restore it at any time.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/proxsave.dev.ico"
         },
         {
           "name": "ProxSnap",
           "url": "https://github.com/gyptazy/ProxSnap",
           "description": "Lightweight CLI tool for auditing and cleaning up snapshots across Proxmox VE clusters.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "pve-bindsnap",
           "url": "https://github.com/bitranox/pve-bindsnap",
           "description": "Snapshot LXC containers that have bind/device mounts, which stock Proxmox greys out, via a small AGPL overlay. Can also exclude specific volumes from a snapshot; works with the GUI, API, pct and cv4pve-autosnap.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "pve-zsync",
           "url": "https://pve.proxmox.com/wiki/PVE-zsync",
           "description": "Official ZFS replication helper for copying VM and container datasets between hosts.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico"
         },
         {
           "name": "SEP sesam for Proxmox Virtual Environment",
           "url": "https://www.sep.de/solutions/proxmox-hypervisor/",
           "description": "Efficient data protection for virtual machines running on Proxmox VE.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.sep.de.ico"
         },
         {
           "name": "Storware Backup&Recovery",
           "url": "https://storware.eu/solutions/virtual-machine-backup-and-recovery/proxmox-ve-backup-and-recovery/",
           "description": "Comprehensive data protection for virtual machines, containers, and files on Proxmox VE.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/storware.eu.ico"
         },
         {
           "name": "Veeam Backup for Proxmox",
           "url": "https://www.veeam.com/blog/veeam-backup-for-proxmox.html",
           "description": "Well-known Enterprise backup solution.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/veeam/00B336"
         },
         {
           "name": "Vinchin Backup & Recovery",
@@ -297,7 +329,8 @@
               "label": "docs",
               "url": "https://helpcenter.vinchin.com/"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.vinchin.com.ico"
         }
       ],
       "subgroups": []
@@ -310,67 +343,78 @@
           "name": "cv4pve-cli",
           "url": "https://github.com/Corsinvest/cv4pve-cli",
           "description": "kubectl-style remote CLI for Proxmox VE with multi-cluster contexts and shell completion.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "dockur/proxmox",
           "url": "https://github.com/dockur/proxmox",
           "description": "Full Proxmox VE node running inside a Docker container, for labs and CI.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox Manager",
           "url": "https://github.com/TimInTech/proxmox-manager",
           "description": "Single-file Bash tool for managing Proxmox VMs and containers.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox VE Helper-Scripts",
           "url": "https://github.com/community-scripts/ProxmoxVE",
           "description": "Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox-Enhanced-Configuration-Utility (PECU)",
           "url": "https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility",
           "description": "Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox VMID Updater",
           "url": "https://github.com/sannier3/proxmox-vmid-updater",
           "description": "Interactive Proxmox VM/LXC ID renaming script with automatic logging, safety checks, and storage path updates.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "ProxMenux",
           "url": "https://github.com/MacRimi/ProxMenux",
           "description": "Management tool for Proxmox VE that simplifies system administration through an interactive menu.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "proxtagger",
           "url": "https://github.com/reginleif88/proxtagger",
           "description": "Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "PVE-mods",
           "url": "https://github.com/Meliox/PVE-mods",
           "description": "Small collection of scripts and mods for Proxmox Virtual Environment (PVE).",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "PVE Scripts Local",
           "url": "https://github.com/community-scripts/ProxmoxVE-Local",
           "description": "Local web UI to browse and run Proxmox VE Helper-Scripts without curl-to-bash from the site.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "pvetui",
           "url": "https://github.com/devnullvoid/pvetui",
           "description": "Terminal User Interface for Proxmox Virtual Environment.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -383,13 +427,15 @@
           "name": "ProxCLMC",
           "url": "https://github.com/credativ/ProxCLMC",
           "description": "Lightweight tool to determine the maximum CPU compatibility level supported across all nodes in a Proxmox VE cluster for live migration.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "ProxLB",
           "url": "https://github.com/credativ/ProxLB",
           "description": "Application to optimize the distribution of virtual machines across Proxmox cluster nodes for enhanced efficiency and performance.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -406,7 +452,8 @@
               "name": "ProxmoxBar",
               "url": "https://github.com/ryzenixx/proxmoxbar-macos",
               "description": "Native macOS menu bar app for monitoring and controlling Proxmox VE resources.",
-              "links": []
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/github/181717"
             }
           ]
         }
@@ -420,31 +467,36 @@
           "name": "10 Ways to Ruin Your Proxmox Setup - And How Not To",
           "url": "https://github.com/SwamiRama/10-ways-to-ruin-proxmox",
           "description": "Book about 10 common mistakes and how to avoid them.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "free-pmx",
           "url": "https://free-pmx.pages.dev/",
           "description": "Insights and guides on Proxmox VE.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/free-pmx.pages.dev.ico"
         },
         {
           "name": "Proxmox VE Documentation",
           "url": "https://pve.proxmox.com/pve-docs/",
           "description": "Official Proxmox VE Documentation.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico"
         },
         {
           "name": "Proxmox VE Wiki",
           "url": "https://pve.proxmox.com/wiki/Main_Page",
           "description": "Official Proxmox VE Wiki.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico"
         },
         {
           "name": "Thomas Krenn Proxmox Wiki",
           "url": "https://www.thomas-krenn.com/de/wiki/Kategorie:Proxmox",
           "description": "Several articles and howtos related to Proxmox VE.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.thomas-krenn.com.ico"
         }
       ],
       "subgroups": []
@@ -457,19 +509,22 @@
           "name": "Discord: Proxcord",
           "url": "https://discord.gg/w9Y5UPz4FG",
           "description": "Unofficial Discord server for Proxmox VE.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/discord/5865F2"
         },
         {
           "name": "Proxmox Support Forum",
           "url": "https://forum.proxmox.com/",
           "description": "Proxmox Community Forum.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/forum.proxmox.com.ico"
         },
         {
           "name": "Reddit: Proxmox",
           "url": "https://www.reddit.com/r/Proxmox/",
           "description": "Main subreddit regarding the Proxmox hypervisor.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/reddit/FF4500"
         }
       ],
       "subgroups": []
@@ -482,25 +537,29 @@
           "name": "osx-proxmox",
           "url": "https://github.com/lucid-fabrics/osx-proxmox-next",
           "description": "One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery image auto-download, and AMD/Intel CPU support for Sonoma, Sequoia, and Tahoe.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "proxmox-guestos-customization",
           "url": "https://github.com/RobertLukan/proxmox-guestos-customization",
           "description": "Community Sysprep sidecar to clone and customize Windows templates on Proxmox VE (hostname, network, AD/workgroup) via the QEMU guest agent.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "pve-microvm",
           "url": "https://github.com/rcarmo/pve-microvm",
           "description": "Firecracker-like microVMs for Proxmox VE \u2014 KVM isolation, under 200ms boot.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "valheim-proxmox",
           "url": "https://github.com/PawelSzymanski89/valheim-proxmox",
           "description": "One-command Valheim dedicated server LXC with a web panel for players, bans, worlds, backups and mods",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -513,55 +572,64 @@
           "name": "Ansible Collection - community.proxmox",
           "url": "https://github.com/ansible-collections/community.proxmox",
           "description": "Canonical Ansible collection for managing Proxmox VE clusters, VMs, and containers.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Ansible Role - Proxmox",
           "url": "https://github.com/lae/ansible-role-proxmox",
           "description": "Ansible role for installing and configuring Proxmox VE clusters.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Cluster API Provider for Proxmox VE (CAPMOX)",
           "url": "https://github.com/ionos-cloud/cluster-api-provider-proxmox",
           "description": "Kubernetes-style declarative APIs for cluster creation, configuration, and management on Proxmox VE.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Hashicorp packer-plugin-proxmox",
           "url": "https://github.com/hashicorp/packer-plugin-proxmox",
           "description": "Official HashiCorp Packer plugin for building Proxmox VM templates.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "OpenTofu Provider for Proxmox",
           "url": "https://search.opentofu.org/provider/bpg/proxmox/latest",
           "description": "OpenTofu provider which adds support for Proxmox solutions",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/search.opentofu.org.ico"
         },
         {
           "name": "packer-plugin-proxmox",
           "url": "https://github.com/natrontech/packer-plugin-proxmox",
           "description": "Packer plugin for Proxmox Builder.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox-GitOps",
           "url": "https://github.com/stevius10/Proxmox-GitOps",
           "description": "Self-contained GitOps environment for provisioning and orchestrating Linux Containers (LXC) on Proxmox VE.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Pulumi Proxmox VE",
           "url": "https://github.com/muhlba91/pulumi-proxmoxve",
           "description": "Pulumi provider for creating and managing Proxmox VE resources.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Terraform Provider for Proxmox",
           "url": "https://github.com/bpg/terraform-provider-proxmox",
           "description": "Terraform provider which adds support for Proxmox solutions.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -574,31 +642,36 @@
           "name": "iTop CMDB: Data collector for Proxmox",
           "url": "https://www.itophub.io/wiki/page?id=extensions:combodo-proxmox-data-collector",
           "description": "Synchronize Proxmox managed devices into iTop.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.itophub.io.ico"
         },
         {
           "name": "netbox Enterprise Proxmox VE Integration",
           "url": "https://netboxlabs.com/docs/integrations/platform-integrations/proxmox-ve/",
           "description": "Synchronization of Proxmox Virtual Environment (Proxmox VE) infrastructure into NetBox.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/netboxlabs.com.ico"
         },
         {
           "name": "netbox-proxbox",
           "url": "https://www.emersonfelipesp.com/netbox-proxbox",
           "description": "Netbox Plugin for integration between Proxmox and Netbox.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.emersonfelipesp.com.ico"
         },
         {
           "name": "Proxmox Virtual Environment CMDB importer",
           "url": "https://www.versio.io/en/import-proxmox-cmdb-configuration-item.html",
           "description": "Import, historize and process virtualized infrastructure configuration items into Versio.io.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.versio.io.ico"
         },
         {
           "name": "Netbox-SSOT",
           "url": "https://github.com/bl4ko/netbox-ssot",
           "description": "Microservice that syncs objects from multiple sources (including Proxmox) into NetBox as automatic SSOT",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -616,7 +689,8 @@
               "label": "live demo",
               "url": "https://demo.atlaspve.com"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/atlaspve.com.ico"
         },
         {
           "name": "Convoy",
@@ -627,37 +701,43 @@
               "label": "docs",
               "url": "https://convoypanel.com/docs/project/introduction.html"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/convoypanel.com.ico"
         },
         {
           "name": "CV4PVE-ADMIN",
           "url": "https://corsinvest.it/cv4pve-admin-proxmox/",
           "description": "The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/corsinvest.it.ico"
         },
         {
           "name": "ferrum",
           "url": "https://github.com/anand34577/ferrum",
           "description": "Fleet control for Proxmox VE \u2014 a single dashboard for every cluster and standalone node you run, with live inventory, dashboards, backups, HA , firewall, alerting, and more.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "MultiPortal",
           "url": "https://multiportal.io/",
           "description": "One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/multiportal.io.ico"
         },
         {
           "name": "PegaProx",
           "url": "https://pegaprox.com/",
           "description": "Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations \u2013 all in one beautiful interface.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pegaprox.com.ico"
         },
         {
           "name": "ProxCenter",
           "url": "https://www.proxcenter.io/",
           "description": "Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more \u2014 from a single pane of glass.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.proxcenter.io.ico"
         },
         {
           "name": "Proxmox Datacenter Manager",
@@ -668,13 +748,15 @@
               "label": "docs",
               "url": "https://pdm.proxmox.com/docs/introduction.html"
             }
-          ]
+          ],
+          "favicon": "https://cdn.simpleicons.org/proxmox/E57000"
         },
         {
           "name": "Tainer",
           "url": "https://tainer.sh/",
           "description": "A cloud dashboard for Proxmox VE. Deploy, manage, and monitor LXC containers and VMs from anywhere \u2014 no ports to open. Free tier available.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/tainer.sh.ico"
         }
       ],
       "subgroups": []
@@ -687,13 +769,15 @@
           "name": "Migrate to Proxmox VE",
           "url": "https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE",
           "description": "Official guide for moving VMs to Proxmox VE, including the ESXi import wizard.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico"
         },
         {
           "name": "ProxMigrate",
           "url": "https://github.com/AthenaNetworks/ProxMigrate",
           "description": "Powerful, user-friendly command-line tool for migrating virtual machines between Proxmox VE servers.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -710,25 +794,29 @@
               "name": "Proxmox VE Android App",
               "url": "https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend&hl=en",
               "description": "Official native mobile app for managing Proxmox VE.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/play.google.com.ico"
             },
             {
               "name": "ProxMan",
               "url": "https://play.google.com/store/apps/details?id=com.windium.proxman&hl=en",
               "description": "Lightweight Proxmox VE & Backup Server Management in Your Pocket.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/play.google.com.ico"
             },
             {
               "name": "ProxMate Backup for Proxmox",
               "url": "https://play.google.com/store/apps/details?id=com.itss.proxmatebackup&hl=en",
               "description": "Get a quick and easy overview of your Proxmox Backup Server.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/play.google.com.ico"
             },
             {
               "name": "ProxMon - A Proxmox VE client",
               "url": "https://play.google.com/store/apps/details?id=dev.reimu.proxmon&pcampaignid=web_share",
               "description": "View Proxmox nodes, storage pools, VMs, and containers' statuses.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/play.google.com.ico"
             }
           ]
         },
@@ -739,37 +827,43 @@
               "name": "Proxmox VE Companion",
               "url": "https://apps.apple.com/de/app/proxmox-ve-companion/id6748314140",
               "description": "Official native mobile app for managing Proxmox VE.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/apps.apple.com.ico"
             },
             {
               "name": "ProxMan",
               "url": "https://proxman.app",
               "description": "Application designed for managing Proxmox VE virtualization infrastructure and Proxmox Backup Server environments.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/proxman.app.ico"
             },
             {
               "name": "ProxMate Backup",
               "url": "https://apps.apple.com/de/app/proxmate-backup/id6618157722",
               "description": "Manage Proxmox Backup Servers.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/apps.apple.com.ico"
             },
             {
               "name": "ProxMate iOS",
               "url": "https://apps.apple.com/de/app/proxmate/id6470526961?platform=iphone",
               "description": "Manage your Proxmox Server.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/apps.apple.com.ico"
             },
             {
               "name": "ProxMobo: Proxmox VE & PBS Management",
               "url": "https://proxmobo.app/",
               "description": "Powerful monitoring and management app for Proxmox VE and Proxmox Backup Server.",
-              "links": []
+              "links": [],
+              "favicon": "https://icons.duckduckgo.com/ip3/proxmobo.app.ico"
             },
             {
               "name": "Reeve",
               "url": "https://github.com/JoshuaShunk/reeve",
               "description": "Native SwiftUI app for iOS and MacOS to monitor, manage, and automate a Proxmox VE homelab.",
-              "links": []
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/github/181717"
             }
           ]
         }
@@ -783,97 +877,113 @@
           "name": "CheckMK",
           "url": "https://checkmk.com/blog/proxmox-monitoring",
           "description": "Proxmox Monitoring: How to Do it Efficiently with Checkmk.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/checkmk/15D1A0"
         },
         {
           "name": "check_pve",
           "url": "https://github.com/nbuchwitz/check_pve",
           "description": "Icinga check command for Proxmox VE via API.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Datadog",
           "url": "https://docs.datadoghq.com/integrations/proxmox/",
           "description": "Observability and security platform used to monitor applications, infrastructure, logs, networks, user experience, and cloud environments at any scale.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/datadog/632CA6"
         },
         {
           "name": "Grafana: Proxmox via Prometheus",
           "url": "https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/",
           "description": "Standard Grafana dashboard for the Prometheus Proxmox VE exporter.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/grafana/F46800"
         },
         {
           "name": "LPAR2RRD",
           "url": "https://lpar2rrd.com/Proxmox-monitoring.php",
           "description": "Server Performance Monitoring Tool - agentless monitoring, all data is gathered from Proxmox API.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/lpar2rrd.com.ico"
         },
         {
           "name": "ManageEngine OpManager",
           "url": "https://www.manageengine.com/network-monitoring/proxmox-monitoring.html",
           "description": "Network and IT\u2011infrastructure monitoring platform.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.manageengine.com.ico"
         },
         {
           "name": "Netdata",
           "url": "https://www.netdata.cloud/integrations/data-collection/containers-and-vms/proxmox-ve/",
           "description": "Real-time monitoring for infrastructure ranging from IoT devices to hybrid cloud environments with Proxmox VE support.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/netdata/00AB44"
         },
         {
           "name": "PandoraFMS",
           "url": "https://pandorafms.com/blog/proxmox-ve-monitoring/",
           "description": "Proxmox VE monitoring with Pandora FMS.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pandorafms.com.ico"
         },
         {
           "name": "pbs-exporter",
           "url": "https://github.com/natrontech/pbs-exporter",
           "description": "Prometheus exporter for Proxmox Backup Server.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Prometheus Proxmox VE Exporter",
           "url": "https://github.com/prometheus-pve/prometheus-pve-exporter",
           "description": "Exporter that exposes information gathered from Proxmox VE nodes for use by the Prometheus monitoring system.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox Atlas",
           "url": "https://proxmox-atlas.net/",
           "description": "One dashboard. Every cluster. Real-time metrics, anomaly detection, and capacity planning.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/proxmox-atlas.net.ico"
         },
         {
           "name": "Pulse",
           "url": "https://github.com/rcourtman/Pulse",
           "description": "Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "PVE-UPS",
           "url": "https://github.com/ffind-dev/pve-ups",
           "description": "GUI-based UPS shutdown appliance for Proxmox VE - a NUT alternative with a web wizard and no config files",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "VictoriaMetrics",
           "url": "https://victoriametrics.com/blog/proxmox-monitoring-with-dbaas/",
           "description": "The High-Performance, Open Source Time Series Database & Monitoring Solution.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/victoriametrics/621773"
         },
         {
           "name": "XorMon",
           "url": "https://xormon.com/server/monitoring/Proxmox/Proxmox-monitoring.php",
           "description": "Unified performance monitoring across servers, virtualization platforms, storage systems, databases, containers, and cloud environments.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/xormon.com.ico"
         },
         {
           "name": "Zabbix",
           "url": "https://www.zabbix.com/de/integrations/proxmox",
           "description": "Template for monitoring Proxmox with Zabbix.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.zabbix.com.ico"
         }
       ],
       "subgroups": []
@@ -899,7 +1009,8 @@
               "label": "forum",
               "url": "https://forum.proxmox.com/"
             }
-          ]
+          ],
+          "favicon": "https://cdn.simpleicons.org/proxmox/E57000"
         }
       ],
       "subgroups": []
@@ -912,13 +1023,15 @@
           "name": "cv4pve-report",
           "url": "https://github.com/Corsinvest/cv4pve-report",
           "description": "Export Proxmox VE infrastructure to a navigable Excel, HTML or JSON report - like RVTools for Proxmox.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox Report Generator",
           "url": "https://github.com/AungThuMyint/ProxmoxReportGenerator",
           "description": "Report PDF Generator For Your Proxmox Virtual Environment.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -931,19 +1044,22 @@
           "name": "Proxmox Extended Sensors (v4)",
           "url": "https://github.com/Javisen/proxmox_sensors",
           "description": "Detailed monitoring & control system for Proxmox VE & PBS in Home Assistant.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox VE Custom Integration for Home Assistant",
           "url": "https://github.com/dougiteixeira/proxmoxve",
           "description": "This integration allows you to poll various data and controls from your Proxmox VE instance.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox Suits",
           "url": "https://github.com/Sundancer78/proxmox-suits",
           "description": "Home Assistant integration for monitoring Proxmox VE and Proxmox Backup Server (PBS) with tasks, datastores, and IEC (GiB) sensors.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -956,25 +1072,29 @@
           "name": "Proxmox Hardening Guide",
           "url": "https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide",
           "description": "Security hardening guides for PVE and PBS, built on CIS Debian Benchmark with Proxmox specific best practices.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "proxmox-ftagent",
           "url": "https://github.com/Flowtriq/proxmox-ftagent",
           "description": "One-command LXC deployment of the Flowtriq DDoS detection agent on Proxmox VE, with automatic dependency and systemd service setup.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox VE Security Advisories",
           "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-security-advisories.149331/",
           "description": "List of security advisories since 2024-01-01 for the Proxmox Virtual Environment.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/forum.proxmox.com.ico"
         },
         {
           "name": "Proxmox VE Security Reporting",
           "url": "https://pve.proxmox.com/wiki/Security_Reporting",
           "description": "How to report security issues to the Proxmox security team.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico"
         }
       ],
       "subgroups": []
@@ -987,67 +1107,78 @@
           "name": "ANAS",
           "url": "https://github.com/ccebelenski/anas",
           "description": "The storage layer Proxmox VE doesn't have, inside the Proxmox web UI. ZFS and mixed-size Hybrid RAID pools, SMB/NFS shares, an iSCSI target, snapshots and schedules, replication, backup and restore to PBS \u2014 as native panels on the PVE node.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Dell PowerStore: Deploying Proxmox Virtual Environment",
           "url": "https://infohub.delltechnologies.com/en-us/t/dell-powerstore-deploying-proxmox-virtual-environment-white-paper/",
           "description": "White paper on deploying and configuring Proxmox Virtual Environment on Dell PowerStore with shared storage.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/infohub.delltechnologies.com.ico"
         },
         {
           "name": "Everpure: Technology Integrations - Proxmox",
           "url": "https://support.everpuredata.com/access?dita:id=m_proxmox",
           "description": "Guidance on how to leverage Everpure FlashArray with iSCSI, FC or NFS.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/support.everpuredata.com.ico"
         },
         {
           "name": "Setting Up Highly Available Storage for Proxmox Using LINSTOR",
           "url": "https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/",
           "description": "Guide to DRBD-based highly available storage for Proxmox using LINSTOR and the LINBIT GUI.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/linbit.com.ico"
         },
         {
           "name": "Netapp: Proxmox VE with ONTAP",
           "url": "https://docs.netapp.com/us-en/netapp-solutions/proxmox/proxmox-ontap.html",
           "description": "Netapp ONTAP storage can serve the needs of Proxmox VE host environments as well as for guest file, block and object storage demands.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/netapp/0067C5"
         },
         {
           "name": "Proxmox VE Plugin for HPE Nimble Storage (iSCSI)",
           "url": "https://github.com/brngates98/pve-nimble-plugin",
           "description": "Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source",
           "url": "https://github.com/kolesa-team/pve-purestorage-plugin",
           "description": "Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "SharedLVM",
           "url": "https://github.com/delltech1/proxmox-sharedlvmthin",
           "description": "Snapshot-capable shared FC/iSCSI SAN storage for Proxmox VE 9 clusters, with Thin Pools and Thick Generations over an existing shared LVM VG.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "StorPool Storage Powering Proxmox Virtual Environments",
           "url": "https://storpool.com/proxmox-virtual-environment",
           "description": "Ultra-Fast, Reliable, and Scalable Block Storage as a Service for Proxmox Environments.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/storpool.com.ico"
         },
         {
           "name": "Snapbridge",
           "url": "https://github.com/abdoufermat5/snapbridge",
           "description": "Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "TrueNAS Proxmox VE Storage Plugin",
           "url": "https://github.com/truenas/truenas-proxmox-plugin",
           "description": "High-performance storage plugin for Proxmox VE that integrates TrueNAS SCALE via iSCSI, featuring live snapshots, ZFS integration, and cluster compatibility.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -1060,25 +1191,29 @@
           "name": "Croit Academy",
           "url": "https://www.croit.io/academy/topics/proxmox",
           "description": "Proxmox VE trainings and workshops by working engineers.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.croit.io.ico"
         },
         {
           "name": "Fast Lane",
           "url": "https://www.flane.de/en/courses/proxmox",
           "description": "Hands-on Proxmox training courses.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.flane.de.ico"
         },
         {
           "name": "Proxmox VE Training Courses",
           "url": "https://www.proxmox.com/en/services/training-courses/training",
           "description": "Official Proxmox VE training courses from Proxmox Server Solutions GmbH.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/proxmox/E57000"
         },
         {
           "name": "Udemy: Proxmox VE courses",
           "url": "https://www.udemy.com/courses/search/?src=ukw&q=Proxmox&ratings=4.5&lang=en&lang=de",
           "description": "Online learning platform with several Proxmox VE training courses.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/udemy/A435F0"
         }
       ],
       "subgroups": []
@@ -1091,13 +1226,15 @@
           "name": "Lawrence Systems",
           "url": "https://www.youtube.com/c/LawrenceSystems/search?query=proxmox",
           "description": "Enterprise and security-focused Proxmox VE videos.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/youtube/FF0000"
         },
         {
           "name": "Proxmox Server Solutions",
           "url": "https://www.youtube.com/@ProxmoxVe",
           "description": "Official YouTube channel for releases, webinars, and product features.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/youtube/FF0000"
         },
         {
           "name": "ServeTheHome",
@@ -1108,7 +1245,8 @@
               "label": "YouTube",
               "url": "https://www.youtube.com/c/ServeTheHomeVideo"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.servethehome.com.ico"
         },
         {
           "name": "Techno Tim",
@@ -1119,13 +1257,15 @@
               "label": "YouTube",
               "url": "https://www.youtube.com/c/TechnoTimLive"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/technotim.live.ico"
         },
         {
           "name": "VirtualizationHowTo",
           "url": "https://www.virtualizationhowto.com/tag/proxmox-ve/",
           "description": "Proxmox VE tutorials and tool roundups.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.virtualizationhowto.com.ico"
         }
       ],
       "subgroups": []
@@ -1138,13 +1278,15 @@
           "name": "Kasm Workspaces",
           "url": "https://docs.kasm.com/docs/latest/how-to/autoscale/autoscale_providers/proxmox",
           "description": "Configuring autoscaling for Kasm Workspaces on Proxmox.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/docs.kasm.com.ico"
         },
         {
           "name": "PVE-VDIClient",
           "url": "https://github.com/joshpatten/PVE-VDIClient",
           "description": "Proxmox based VDI client.",
-          "links": []
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -1157,13 +1299,15 @@
           "name": "Proxmox VE VPS For WHMCS",
           "url": "https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps",
           "description": "High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.modulesgarden.com.ico"
         },
         {
           "name": "SolusVM",
           "url": "https://solusvm.com/",
           "description": "Virtual infrastructure management solution to facilitate choice, simplicity, and performance for ISPs and enterprises.",
-          "links": []
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/solusvm.com.ico"
         },
         {
           "name": "Virtualizor",
@@ -1174,7 +1318,8 @@
               "label": "docs",
               "url": "https://www.virtualizor.com/docs/"
             }
-          ]
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.virtualizor.com.ico"
         }
       ],
       "subgroups": []
