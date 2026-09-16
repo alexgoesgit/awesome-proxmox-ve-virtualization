@@ -456,6 +456,18 @@
               "favicon": "https://cdn.simpleicons.org/github/181717"
             }
           ]
+        },
+        {
+          "name": "Windows & Linux",
+          "items": [
+            {
+              "name": "VirtDeck",
+              "url": "https://github.com/mcluremail/virtdeck",
+              "description": "Native desktop client for Proxmox VE: monitoring, VM/container management, backups and direct Proxmox Backup Server integration (PySide6, Windows and Linux).",
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/github/181717"
+            }
+          ]
         }
       ]
     },
@@ -1325,13 +1337,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 145,
+  "itemCount": 146,
   "lastCommit": {
-    "sha": "702288c423f3e316070d503faa164c9397f4e2c7",
-    "short_sha": "702288c",
-    "message": "Add ANAS, Cloud-PBS, ferrum, SharedLVM",
+    "sha": "f8a35d93e44f6e92747aa4f2303b96314f91efb8",
+    "short_sha": "f8a35d9",
+    "message": "Add VirtDeck",
     "author": "Alexander K.",
-    "date": "2026-09-15T19:20:52Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/702288c423f3e316070d503faa164c9397f4e2c7"
+    "date": "2026-09-16T18:05:45Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/f8a35d93e44f6e92747aa4f2303b96314f91efb8"
   }
 }
