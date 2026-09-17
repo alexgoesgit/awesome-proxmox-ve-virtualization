@@ -202,7 +202,7 @@
           "links": [
             {
               "label": "docs",
-              "url": "https://documentation.commvault.com/11.38/essential/backups_for_proxmox_vms.html"
+              "url": "https://documentation.commvault.com/v11/software/backups_for_proxmox_vms.html"
             }
           ],
           "favicon": "https://icons.duckduckgo.com/ip3/www.commvault.com.ico"
@@ -733,22 +733,37 @@
         {
           "name": "MultiPortal",
           "url": "https://multiportal.io/",
-          "description": "One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure.",
-          "links": [],
+          "description": "One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure",
+          "links": [
+            {
+              "label": "docs",
+              "url": "https://docs.multiportal.io"
+            }
+          ],
           "favicon": "https://icons.duckduckgo.com/ip3/multiportal.io.ico"
         },
         {
           "name": "PegaProx",
           "url": "https://pegaprox.com/",
-          "description": "Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations \u2013 all in one beautiful interface.",
-          "links": [],
+          "description": "Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations \u2013 all in one beautiful interface",
+          "links": [
+            {
+              "label": "docs",
+              "url": "https://docs.pegaprox.com/"
+            }
+          ],
           "favicon": "https://icons.duckduckgo.com/ip3/pegaprox.com.ico"
         },
         {
           "name": "ProxCenter",
           "url": "https://www.proxcenter.io/",
-          "description": "Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more \u2014 from a single pane of glass.",
-          "links": [],
+          "description": "Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more \u2014 from a single pane of glass",
+          "links": [
+            {
+              "label": "docs",
+              "url": "https://docs.proxcenter.io/"
+            }
+          ],
           "favicon": "https://icons.duckduckgo.com/ip3/www.proxcenter.io.ico"
         },
         {
@@ -996,6 +1011,34 @@
           "description": "Template for monitoring Proxmox with Zabbix.",
           "links": [],
           "favicon": "https://icons.duckduckgo.com/ip3/www.zabbix.com.ico"
+        }
+      ],
+      "subgroups": []
+    },
+    {
+      "id": "networking",
+      "name": "Networking",
+      "items": [
+        {
+          "name": "Netbird on Proxmox",
+          "url": "https://docs.netbird.io/get-started/install/proxmox-ve",
+          "description": "NetBird is an Open Source Zero Trust Networking platform that allows you to create secure private networks.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/docs.netbird.io.ico"
+        },
+        {
+          "name": "tailmox",
+          "url": "https://github.com/willjasen/tailmox",
+          "description": "Cluster Proxmox over tailscale - move virtual machines and containers across geographically distant nodes.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "Tailscale",
+          "url": "https://tailscale.com/docs/integrations/proxmox",
+          "description": "Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/tailscale/242424"
         }
       ],
       "subgroups": []
@@ -1337,13 +1380,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 146,
+  "itemCount": 149,
   "lastCommit": {
-    "sha": "f8a35d93e44f6e92747aa4f2303b96314f91efb8",
-    "short_sha": "f8a35d9",
-    "message": "Add VirtDeck",
+    "sha": "45455c4d182eda48c804f219ef86da1f0205ad4c",
+    "short_sha": "45455c4",
+    "message": "Add Networking Section, add/fix some docs links",
     "author": "Alexander K.",
-    "date": "2026-09-16T18:05:45Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/f8a35d93e44f6e92747aa4f2303b96314f91efb8"
+    "date": "2026-09-17T08:39:24Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/45455c4d182eda48c804f219ef86da1f0205ad4c"
   }
 }
