@@ -23,6 +23,7 @@
 * [Migration](#migration)
 * [Mobile Apps](#mobile-apps)
 * [Monitoring](#monitoring)
+* [Networking](#networking)
 * [Proxmox VE](#proxmox-ve)
 * [Reporting](#reporting)
 * [Smarthome](#smarthome)
@@ -68,7 +69,7 @@
 * [BDRSuite](https://www.bdrsuite.com/proxmox-backup/) - Comprehensive backup and disaster recovery solution for virtual, physical, cloud, and SaaS applications with agentless backup for Proxmox VMs ([docs](https://www.bdrsuite.com/technical-documents/), [download](https://www.bdrsuite.com/vembu-bdr-suite-download/)).
 * [Catalogic DPX](https://www.catalogicsoftware.com/portfolio/proxmox/) - Integrates seamlessly with Proxmox Virtual Environment (VE). DPX vPlus enables agentless Proxmox backup and recovery.
 * [Cloud-PBS](https://cloud-pbs.com/) - Fast, secure and scalable cloud backup server for your Proxmox VE infrastructure.
-* [Commvault Backup&Recovery](https://www.commvault.com/use-cases/backup-and-recovery) - Protects VMs hosted in Proxmox Virtual Environment ([docs](https://documentation.commvault.com/11.38/essential/backups_for_proxmox_vms.html)).
+* [Commvault Backup&Recovery](https://www.commvault.com/use-cases/backup-and-recovery) - Protects VMs hosted in Proxmox Virtual Environment ([docs](https://documentation.commvault.com/v11/software/backups_for_proxmox_vms.html)).
 * [cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.
 * [Joulenap](https://github.com/Joulenap/joulenap) - Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.
 * [NAKIVO Backup & Replication](https://www.nakivo.com/proxmox-backup/) - Backup, replication, failover, cloud/tape backup, granular restore, and disaster recovery orchestration for virtual, physical, cloud, and SaaS environments ([trial](https://www.nakivo.com/resources/download/trial-download/), [docs](https://helpcenter.nakivo.com/User-Guide/Content/Home.htm)).
@@ -160,9 +161,9 @@
 * [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines ([docs](https://convoypanel.com/docs/project/introduction.html)).
 * [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
 * [ferrum](https://github.com/anand34577/ferrum) - Fleet control for Proxmox VE — a single dashboard for every cluster and standalone node you run, with live inventory, dashboards, backups, HA , firewall, alerting, and more.
-* [MultiPortal](https://multiportal.io/) - One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure.
-* [PegaProx](https://pegaprox.com/) - Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations – all in one beautiful interface.
-* [ProxCenter](https://www.proxcenter.io/) - Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more — from a single pane of glass.
+* [MultiPortal](https://multiportal.io/) - One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure ([docs](https://docs.multiportal.io)).
+* [PegaProx](https://pegaprox.com/) - Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations – all in one beautiful interface ([docs](https://docs.pegaprox.com/)).
+* [ProxCenter](https://www.proxcenter.io/) - Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more — from a single pane of glass ([docs](https://docs.proxcenter.io/)).
 * [Proxmox Datacenter Manager](https://www.proxmox.com/en/downloads/proxmox-datacenter-manager) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments ([docs](https://pdm.proxmox.com/docs/introduction.html)).
 * [Tainer](https://tainer.sh/) - A cloud dashboard for Proxmox VE. Deploy, manage, and monitor LXC containers and VMs from anywhere — no ports to open. Free tier available.
 
@@ -207,6 +208,12 @@
 * [VictoriaMetrics](https://victoriametrics.com/blog/proxmox-monitoring-with-dbaas/) - The High-Performance, Open Source Time Series Database & Monitoring Solution.
 * [XorMon](https://xormon.com/server/monitoring/Proxmox/Proxmox-monitoring.php) - Unified performance monitoring across servers, virtualization platforms, storage systems, databases, containers, and cloud environments.
 * [Zabbix](https://www.zabbix.com/de/integrations/proxmox) - Template for monitoring Proxmox with Zabbix.
+
+## Networking
+
+* [Netbird on Proxmox](https://docs.netbird.io/get-started/install/proxmox-ve) - NetBird is an Open Source Zero Trust Networking platform that allows you to create secure private networks.
+* [tailmox](https://github.com/willjasen/tailmox) - Cluster Proxmox over tailscale - move virtual machines and containers across geographically distant nodes.
+* [Tailscale](https://tailscale.com/docs/integrations/proxmox) - Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale.
 
 ## Proxmox VE
 
