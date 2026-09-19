@@ -36,6 +36,7 @@
 
 ## AI
 
+* [mcp-proxmox](https://github.com/antonio-mello-ai/mcp-proxmox) - MCP server for managing Proxmox VE clusters through AI assistants.
 * [Proximo](https://github.com/john-broadway/proximo) - MCP server for Proxmox VE, Backup Server, Mail Gateway, and Datacenter Manager with audited trust core (plan, prove, undo, diagnose). MCP + A2A.
 * [ProxmoxMCP](https://github.com/canvrno/proxmoxmcp) - Python-based MCP server for interacting with Proxmox hypervisors, providing a clean interface for managing nodes, VMs, and containers.
 * [ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) - MCP and OpenAPI integration to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
@@ -56,6 +57,7 @@
   * [PowerShell for Proxmox VE](https://www.powershellgallery.com/packages/Corsinvest.ProxmoxVE.Api/) - CmdLet for PowerShell to manage Proxmox VE.
 * Python
   * [proxmoxer](https://pypi.org/project/proxmoxer) - Python wrapper around the Proxmox REST API v2.
+  * [proxmox-sdk](https://github.com/emersonfelipesp/proxmox-sdk) - Schema-driven FastAPI package, Python SDK, and CLI/TUI for Proxmox APIs: OpenAPI generation, mock data, SQLite/WAL-backed CRUD operations, typed service facades, and real API connections.
 
 ## Autoscaling
 
@@ -80,6 +82,7 @@
 * [ProxSnap](https://github.com/gyptazy/ProxSnap) - Lightweight CLI tool for auditing and cleaning up snapshots across Proxmox VE clusters.
 * [pve-bindsnap](https://github.com/bitranox/pve-bindsnap) - Snapshot LXC containers that have bind/device mounts, which stock Proxmox greys out, via a small AGPL overlay. Can also exclude specific volumes from a snapshot; works with the GUI, API, pct and cv4pve-autosnap.
 * [pve-zsync](https://pve.proxmox.com/wiki/PVE-zsync) - Official ZFS replication helper for copying VM and container datasets between hosts.
+* [Rubrik Data Protection for Proxmox VE](https://www.rubrik.com/solutions/proxmox-ve) - Rubrik enables you to protect Proxmox workloads with the same immutable, air-gapped architecture used for your VMware, cloud, and SaaS environments—all managed through a single pane of glass.
 * [SEP sesam for Proxmox Virtual Environment](https://www.sep.de/solutions/proxmox-hypervisor/) - Efficient data protection for virtual machines running on Proxmox VE.
 * [Storware Backup&Recovery](https://storware.eu/solutions/virtual-machine-backup-and-recovery/proxmox-ve-backup-and-recovery/) - Comprehensive data protection for virtual machines, containers, and files on Proxmox VE.
 * [Veeam Backup for Proxmox](https://www.veeam.com/blog/veeam-backup-for-proxmox.html) - Well-known Enterprise backup solution.
@@ -159,8 +162,8 @@
 
 * [AtlasPVE](https://atlaspve.com) - Safety-first control panel for Proxmox VE: shows what each action touches before you run it, guarded host updates (dry-run, pre-snapshot, boot-guard), storage and topology maps, built-in watchdog ([live demo](https://demo.atlaspve.com)).
 * [Convoy](https://convoypanel.com/) - Traditional server management platform for interacting with Proxmox-based virtual machines ([docs](https://convoypanel.com/docs/project/introduction.html)).
-* [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.
-* [ferrum](https://github.com/anand34577/ferrum) - Fleet control for Proxmox VE — a single dashboard for every cluster and standalone node you run, with live inventory, dashboards, backups, HA , firewall, alerting, and more.
+* [CV4PVE-ADMIN](https://corsinvest.it/cv4pve-admin-proxmox/) - The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal ([docs](https://corsinvest.github.io/cv4pve-admin/)).
+* [ferrum](https://github.com/anand34577/ferrum) - Fleet control for Proxmox VE — a single dashboard for every cluster and standalone node you run, with live inventory, dashboards, backups, HA , firewall, alerting, and more. ([docs](https://anand34577.github.io/ferrum/guide/index.html)).
 * [MultiPortal](https://multiportal.io/) - One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure ([docs](https://docs.multiportal.io)).
 * [PegaProx](https://pegaprox.com/) - Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations – all in one beautiful interface ([docs](https://docs.pegaprox.com/)).
 * [ProxCenter](https://www.proxcenter.io/) - Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more — from a single pane of glass ([docs](https://docs.proxcenter.io/)).
@@ -218,6 +221,8 @@
 ## Proxmox VE
 
 * [Proxmox Virtual Environment](https://proxmox.com/en/products/proxmox-virtual-environment/overview) - Complete, open-source server management platform for enterprise virtualization. It tightly integrates the KVM hypervisor and Linux Containers (LXC), software-defined storage and networking functionality, on a single platform ([download](https://proxmox.com/en/downloads/proxmox-virtual-environment/iso), [docs](https://pve.proxmox.com/pve-docs/chapter-pve-installation.html), [forum](https://forum.proxmox.com/)).
+* [Proxmox on NixOS](https://github.com/SaumonNet/proxmox-nixos) - Unofficial port of the Proxmox Hypervisor on NixOS.
+* [PXvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures.
 
 ## Reporting
 
