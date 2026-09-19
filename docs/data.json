@@ -9,6 +9,13 @@
       "name": "AI",
       "items": [
         {
+          "name": "mcp-proxmox",
+          "url": "https://github.com/antonio-mello-ai/mcp-proxmox",
+          "description": "MCP server for managing Proxmox VE clusters through AI assistants.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Proximo",
           "url": "https://github.com/john-broadway/proximo",
           "description": "MCP server for Proxmox VE, Backup Server, Mail Gateway, and Datacenter Manager with audited trust core (plan, prove, undo, diagnose). MCP + A2A.",
@@ -121,6 +128,13 @@
               "description": "Python wrapper around the Proxmox REST API v2.",
               "links": [],
               "favicon": "https://cdn.simpleicons.org/pypi/3775A9"
+            },
+            {
+              "name": "proxmox-sdk",
+              "url": "https://github.com/emersonfelipesp/proxmox-sdk",
+              "description": "Schema-driven FastAPI package, Python SDK, and CLI/TUI for Proxmox APIs: OpenAPI generation, mock data, SQLite/WAL-backed CRUD operations, typed service facades, and real API connections.",
+              "links": [],
+              "favicon": "https://cdn.simpleicons.org/github/181717"
             }
           ]
         }
@@ -294,6 +308,13 @@
           "description": "Official ZFS replication helper for copying VM and container datasets between hosts.",
           "links": [],
           "favicon": "https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico"
+        },
+        {
+          "name": "Rubrik Data Protection for Proxmox VE",
+          "url": "https://www.rubrik.com/solutions/proxmox-ve",
+          "description": "Rubrik enables you to protect Proxmox workloads with the same immutable, air-gapped architecture used for your VMware, cloud, and SaaS environments\u2014all managed through a single pane of glass.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.rubrik.com.ico"
         },
         {
           "name": "SEP sesam for Proxmox Virtual Environment",
@@ -719,15 +740,25 @@
         {
           "name": "CV4PVE-ADMIN",
           "url": "https://corsinvest.it/cv4pve-admin-proxmox/",
-          "description": "The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal.",
-          "links": [],
+          "description": "The easiest and most effective solution to monitor your multiple Proxmox VE cluster in a single web portal",
+          "links": [
+            {
+              "label": "docs",
+              "url": "https://corsinvest.github.io/cv4pve-admin/"
+            }
+          ],
           "favicon": "https://icons.duckduckgo.com/ip3/corsinvest.it.ico"
         },
         {
           "name": "ferrum",
           "url": "https://github.com/anand34577/ferrum",
           "description": "Fleet control for Proxmox VE \u2014 a single dashboard for every cluster and standalone node you run, with live inventory, dashboards, backups, HA , firewall, alerting, and more.",
-          "links": [],
+          "links": [
+            {
+              "label": "docs",
+              "url": "https://anand34577.github.io/ferrum/guide/index.html"
+            }
+          ],
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
@@ -1066,6 +1097,20 @@
             }
           ],
           "favicon": "https://cdn.simpleicons.org/proxmox/E57000"
+        },
+        {
+          "name": "Proxmox on NixOS",
+          "url": "https://github.com/SaumonNet/proxmox-nixos",
+          "description": "Unofficial port of the Proxmox Hypervisor on NixOS.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "PXvirt",
+          "url": "https://github.com/jiangcuo/pxvirt",
+          "description": "A fork of Proxmox VE for ARM and LoongArch architectures.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         }
       ],
       "subgroups": []
@@ -1380,13 +1425,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 149,
+  "itemCount": 154,
   "lastCommit": {
-    "sha": "45455c4d182eda48c804f219ef86da1f0205ad4c",
-    "short_sha": "45455c4",
-    "message": "Add Networking Section, add/fix some docs links",
+    "sha": "dd27f397e8f5afb54f23c549912b68f5bb5b5c1a",
+    "short_sha": "dd27f39",
+    "message": "Add several links",
     "author": "Alexander K.",
-    "date": "2026-09-17T08:39:24Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/45455c4d182eda48c804f219ef86da1f0205ad4c"
+    "date": "2026-09-19T09:50:05Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/dd27f397e8f5afb54f23c549912b68f5bb5b5c1a"
   }
 }
