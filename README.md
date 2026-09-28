@@ -167,6 +167,7 @@
 * [MultiPortal](https://multiportal.io/) - One platform to deploy, manage, and scale environments effortlessly, cut the complexity boost efficiency, and take control of your infrastructure ([docs](https://docs.multiportal.io)).
 * [PegaProx](https://pegaprox.com/) - Powerful datacenter management UI for Proxmox VE environments. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster migrations – all in one beautiful interface ([docs](https://docs.pegaprox.com/)).
 * [ProxCenter](https://www.proxcenter.io/) - Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more — from a single pane of glass ([docs](https://docs.proxcenter.io/)).
+* [Proxion](https://github.com/C2Tech-sys/proxion) - Open-source web console for managing Proxmox VE nodes, VMs and containers.
 * [Proxmox Datacenter Manager](https://www.proxmox.com/en/downloads/proxmox-datacenter-manager) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments ([docs](https://pdm.proxmox.com/docs/introduction.html)).
 * [Tainer](https://tainer.sh/) - A cloud dashboard for Proxmox VE. Deploy, manage, and monitor LXC containers and VMs from anywhere — no ports to open. Free tier available.
 
