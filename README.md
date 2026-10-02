@@ -199,6 +199,7 @@
 * [CheckMK](https://checkmk.com/blog/proxmox-monitoring) - Proxmox Monitoring: How to Do it Efficiently with Checkmk.
 * [check_pve](https://github.com/nbuchwitz/check_pve) - Icinga check command for Proxmox VE via API.
 * [Datadog](https://docs.datadoghq.com/integrations/proxmox/) - Observability and security platform used to monitor applications, infrastructure, logs, networks, user experience, and cloud environments at any scale.
+* [Fivenines](https://fivenines.io/features/proxmox-monitoring) - Hosted monitoring for Proxmox VE clusters, nodes, VMs and LXC containers.
 * [Grafana: Proxmox via Prometheus](https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/) - Standard Grafana dashboard for the Prometheus Proxmox VE exporter.
 * [LPAR2RRD](https://lpar2rrd.com/Proxmox-monitoring.php) - Server Performance Monitoring Tool - agentless monitoring, all data is gathered from Proxmox API.
 * [ManageEngine OpManager](https://www.manageengine.com/network-monitoring/proxmox-monitoring.html) -  Network and IT‑infrastructure monitoring platform.
