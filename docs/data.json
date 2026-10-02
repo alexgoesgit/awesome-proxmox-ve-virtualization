@@ -798,6 +798,13 @@
           "favicon": "https://icons.duckduckgo.com/ip3/www.proxcenter.io.ico"
         },
         {
+          "name": "Proxion",
+          "url": "https://github.com/C2Tech-sys/proxion",
+          "description": "Open-source web console for managing Proxmox VE nodes, VMs and containers.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Proxmox Datacenter Manager",
           "url": "https://www.proxmox.com/en/downloads/proxmox-datacenter-manager",
           "description": "Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments",
@@ -951,6 +958,13 @@
           "description": "Observability and security platform used to monitor applications, infrastructure, logs, networks, user experience, and cloud environments at any scale.",
           "links": [],
           "favicon": "https://cdn.simpleicons.org/datadog/632CA6"
+        },
+        {
+          "name": "Fivenines",
+          "url": "https://fivenines.io/features/proxmox-monitoring",
+          "description": "Hosted monitoring for Proxmox VE clusters, nodes, VMs and LXC containers.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/fivenines.io.ico"
         },
         {
           "name": "Grafana: Proxmox via Prometheus",
@@ -1425,13 +1439,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 154,
+  "itemCount": 156,
   "lastCommit": {
-    "sha": "dd27f397e8f5afb54f23c549912b68f5bb5b5c1a",
-    "short_sha": "dd27f39",
-    "message": "Add several links",
+    "sha": "9c1a18938b47b09a8cbb82f511e5c1221b028f67",
+    "short_sha": "9c1a189",
+    "message": "Merge pull request #14 from spuyet/add-fivenines-20260930",
     "author": "Alexander K.",
-    "date": "2026-09-19T09:50:05Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/dd27f397e8f5afb54f23c549912b68f5bb5b5c1a"
+    "date": "2026-10-02T17:54:43Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/9c1a18938b47b09a8cbb82f511e5c1221b028f67"
   }
 }
