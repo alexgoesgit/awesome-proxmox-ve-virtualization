@@ -166,6 +166,13 @@
       "name": "Backup Tools",
       "items": [
         {
+          "name": "Asternodis",
+          "url": "https://asternodis.com",
+          "description": "Provides disaster\u2011recovery orchestration for Proxmox VE. It replicates virtual machines and containers to a secondary site, supports non\u2011intrusive recovery testing, and executes coordinated failover and failback. It works with any storage backend, including but not limited to ZFS and Ceph",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/asternodis.com.ico"
+        },
+        {
           "name": "BACKUP EAGLE",
           "url": "https://www.backup-eagle.com/product/proxmox",
           "description": "Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.",
@@ -303,6 +310,13 @@
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
+          "name": "pve-flr-portal",
+          "url": "https://github.com/treycentric/pve-flr-portal",
+          "description": "File Level Restore Portal for Proxmox Backup Server.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "pve-zsync",
           "url": "https://pve.proxmox.com/wiki/PVE-zsync",
           "description": "Official ZFS replication helper for copying VM and container datasets between hosts.",
@@ -413,6 +427,13 @@
           "name": "proxtagger",
           "url": "https://github.com/reginleif88/proxtagger",
           "description": "Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "pvectl",
+          "url": "https://github.com/mytechspacexyz/pvectl",
+          "description": "Pure bash CLI tool for Proxmox VE 7.x/8.x/9.x clusters management. No Python. No Go. No SDKs.",
           "links": [],
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
@@ -836,6 +857,13 @@
           "description": "Official guide for moving VMs to Proxmox VE, including the ESXi import wizard.",
           "links": [],
           "favicon": "https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico"
+        },
+        {
+          "name": "MultiPortal Migrator",
+          "url": "https://multiportal.io/vmware-to-proxmox-migration/",
+          "description": "Orchestrated VM Migration from VMware to Proxmox.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/multiportal.io.ico"
         },
         {
           "name": "ProxMigrate",
@@ -1439,13 +1467,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 156,
+  "itemCount": 160,
   "lastCommit": {
-    "sha": "9c1a18938b47b09a8cbb82f511e5c1221b028f67",
-    "short_sha": "9c1a189",
-    "message": "Merge pull request #14 from spuyet/add-fivenines-20260930",
+    "sha": "bc65eedc8e6fba24a6349f26612aa919a95abacb",
+    "short_sha": "bc65eed",
+    "message": "Add Asternodis, pvectl, MultiPortal Migrator",
     "author": "Alexander K.",
-    "date": "2026-10-02T17:54:43Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/9c1a18938b47b09a8cbb82f511e5c1221b028f67"
+    "date": "2026-10-03T14:20:33Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/bc65eedc8e6fba24a6349f26612aa919a95abacb"
   }
 }
