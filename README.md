@@ -66,6 +66,7 @@
 
 ## Backup Tools
 
+* [Asternodis](https://asternodis.com) - Provides disaster‑recovery orchestration for Proxmox VE. It replicates virtual machines and containers to a secondary site, supports non‑intrusive recovery testing, and executes coordinated failover and failback. It works with any storage backend, including but not limited to ZFS and Ceph
 * [BACKUP EAGLE](https://www.backup-eagle.com/product/proxmox) - Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.
 * [Bacula Enterprise](https://www.baculasystems.com/corporate-data-backup-software-solutions/bacula-enterprise-data-backup-software/features/) - Subscription-based enterprise data backup solution with a Proxmox plugin for the latest PVE releases.
 * [BDRSuite](https://www.bdrsuite.com/proxmox-backup/) - Comprehensive backup and disaster recovery solution for virtual, physical, cloud, and SaaS applications with agentless backup for Proxmox VMs ([docs](https://www.bdrsuite.com/technical-documents/), [download](https://www.bdrsuite.com/vembu-bdr-suite-download/)).
@@ -81,6 +82,7 @@
 * [ProxSave](https://proxsave.dev/) - Proxmox PBS & PVE system files backup. Save your entire environment and restore it at any time.
 * [ProxSnap](https://github.com/gyptazy/ProxSnap) - Lightweight CLI tool for auditing and cleaning up snapshots across Proxmox VE clusters.
 * [pve-bindsnap](https://github.com/bitranox/pve-bindsnap) - Snapshot LXC containers that have bind/device mounts, which stock Proxmox greys out, via a small AGPL overlay. Can also exclude specific volumes from a snapshot; works with the GUI, API, pct and cv4pve-autosnap.
+* [pve-flr-portal](https://github.com/treycentric/pve-flr-portal) - File Level Restore Portal for Proxmox Backup Server.
 * [pve-zsync](https://pve.proxmox.com/wiki/PVE-zsync) - Official ZFS replication helper for copying VM and container datasets between hosts.
 * [Rubrik Data Protection for Proxmox VE](https://www.rubrik.com/solutions/proxmox-ve) - Rubrik enables you to protect Proxmox workloads with the same immutable, air-gapped architecture used for your VMware, cloud, and SaaS environments—all managed through a single pane of glass.
 * [SEP sesam for Proxmox Virtual Environment](https://www.sep.de/solutions/proxmox-hypervisor/) - Efficient data protection for virtual machines running on Proxmox VE.
@@ -98,6 +100,7 @@
 * [Proxmox VMID Updater](https://github.com/sannier3/proxmox-vmid-updater) - Interactive Proxmox VM/LXC ID renaming script with automatic logging, safety checks, and storage path updates.
 * [ProxMenux](https://github.com/MacRimi/ProxMenux) - Management tool for Proxmox VE that simplifies system administration through an interactive menu.
 * [proxtagger](https://github.com/reginleif88/proxtagger) - Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
+* [pvectl](https://github.com/mytechspacexyz/pvectl) - Pure bash CLI tool for Proxmox VE 7.x/8.x/9.x clusters management. No Python. No Go. No SDKs. 
 * [PVE-mods](https://github.com/Meliox/PVE-mods) - Small collection of scripts and mods for Proxmox Virtual Environment (PVE).
 * [PVE Scripts Local](https://github.com/community-scripts/ProxmoxVE-Local) - Local web UI to browse and run Proxmox VE Helper-Scripts without curl-to-bash from the site.
 * [pvetui](https://github.com/devnullvoid/pvetui) - Terminal User Interface for Proxmox Virtual Environment.
@@ -174,6 +177,7 @@
 ## Migration
 
 * [Migrate to Proxmox VE](https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE) - Official guide for moving VMs to Proxmox VE, including the ESXi import wizard.
+* [MultiPortal Migrator](https://multiportal.io/vmware-to-proxmox-migration/) - Orchestrated VM Migration from VMware to Proxmox.
 * [ProxMigrate](https://github.com/AthenaNetworks/ProxMigrate) - Powerful, user-friendly command-line tool for migrating virtual machines between Proxmox VE servers.
 
 ## Mobile Apps
