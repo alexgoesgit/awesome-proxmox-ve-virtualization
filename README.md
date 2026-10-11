@@ -2,12 +2,12 @@
 
 > A list of Proxmox VE related software, tools and documentation. This project is not affiliated with Proxmox.
 
-  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-  ![GitHub License](https://img.shields.io/github/license/alexgoesgit/awesome-proxmox-ve-virtualization)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/alexgoesgit/awesome-proxmox-ve-virtualization)
-  [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square&logo=github)](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/issues)
-  [![Stars](https://img.shields.io/github/stars/alexgoesgit/awesome-proxmox-ve-virtualization?style=flat-square&logo=github)](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization)
-  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fawesome-pve.bitingbytes.de%2F)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![GitHub License](https://img.shields.io/github/license/alexgoesgit/awesome-proxmox-ve-virtualization)](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/alexgoesgit/awesome-proxmox-ve-virtualization)](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commits/main)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square&logo=github)](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/issues)
+[![Stars](https://img.shields.io/github/stars/alexgoesgit/awesome-proxmox-ve-virtualization?style=flat-square&logo=github)](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fawesome-pve.bitingbytes.de%2F)](https://awesome-pve.bitingbytes.de/)
 
 **Visit the [website](https://awesome-pve.bitingbytes.de/) to search and filter more easily.**
 
