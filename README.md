@@ -1,9 +1,15 @@
-# Awesome Proxmox VE Virtualization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Proxmox VE Virtualization
 
 > A list of Proxmox VE related software, tools and documentation. This project is not affiliated with Proxmox.
 
-![GitHub License](https://img.shields.io/github/license/alexgoesgit/awesome-proxmox-ve-virtualization)
-![GitHub last commit](https://img.shields.io/github/last-commit/alexgoesgit/awesome-proxmox-ve-virtualization)
+  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+  ![GitHub License](https://img.shields.io/github/license/alexgoesgit/awesome-proxmox-ve-virtualization)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/alexgoesgit/awesome-proxmox-ve-virtualization)
+  [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square&logo=github)](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/issues)
+  [![Stars](https://img.shields.io/github/stars/alexgoesgit/awesome-proxmox-ve-virtualization?style=flat-square&logo=github)](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization)
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fawesome-pve.bitingbytes.de%2F)
+
+**Visit the [website](https://awesome-pve.bitingbytes.de/) to search and filter more easily.**
 
 ## Contents
 
@@ -15,6 +21,7 @@
 * [Cluster Tools](#cluster-tools)
 * [Desktop Apps](#desktop-apps)
 * [Documentation](#documentation)
+* [Events](#events)
 * [Forums](#forums)
 * [Guest Automation](#guest-automation)
 * [Infrastructure as Code](#infrastructure-as-code)
@@ -94,6 +101,7 @@
 
 * [cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) - kubectl-style remote CLI for Proxmox VE with multi-cluster contexts and shell completion.
 * [dockur/proxmox](https://github.com/dockur/proxmox) - Full Proxmox VE node running inside a Docker container, for labs and CI.
+* [LWS - Linux Web Services CLI](https://github.com/fabriziosalmi/lws) - Unified command line interface for Proxmox, LXC and Docker.
 * [Proxmox Manager](https://github.com/TimInTech/proxmox-manager) - Single-file Bash tool for managing Proxmox VMs and containers.
 * [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 * [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.
@@ -128,6 +136,13 @@
 * [Proxmox VE Wiki](https://pve.proxmox.com/wiki/Main_Page) - Official Proxmox VE Wiki.
 * [Thomas Krenn Proxmox Wiki](https://www.thomas-krenn.com/de/wiki/Kategorie:Proxmox) - Several articles and howtos related to Proxmox VE.
 
+## Events
+
+* [Proxday](https://www.proxday.de/) - Annual, tech conference focused on the Proxmox VE open-source virtualization ecosystem. Organized by the German IT service provider credativ GmbH.
+* [Proxtalks](https://proxtalks.de) - Technical conference dedicated to users and experts of the open-source virtualization platform Proxmox VE.
+* [PVEday](https://www.pveday.be/) - A Proxmox and open source community day in Belgium.
+* [Proxmox Global Events & Industry Insights](https://www.proxmox.com/en/about/about-us/events) - List of events centered around Proxmox technology.
+
 ## Forums
 
 * [Discord: Proxcord](https://discord.gg/w9Y5UPz4FG) - Unofficial Discord server for Proxmox VE.
@@ -147,9 +162,12 @@
 * [Ansible Role - Proxmox](https://github.com/lae/ansible-role-proxmox) - Ansible role for installing and configuring Proxmox VE clusters.
 * [Cluster API Provider for Proxmox VE (CAPMOX)](https://github.com/ionos-cloud/cluster-api-provider-proxmox) - Kubernetes-style declarative APIs for cluster creation, configuration, and management on Proxmox VE.
 * [Hashicorp packer-plugin-proxmox](https://github.com/hashicorp/packer-plugin-proxmox) - Official HashiCorp Packer plugin for building Proxmox VM templates.
+* [Karpenter Provider for Proxmox](https://github.com/sergelogvinov/karpenter-provider-proxmox) - Karpenter provider for Proxmox.
 * [OpenTofu Provider for Proxmox](https://search.opentofu.org/provider/bpg/proxmox/latest) - OpenTofu provider which adds support for Proxmox solutions
 * [packer-plugin-proxmox](https://github.com/natrontech/packer-plugin-proxmox) - Packer plugin for Proxmox Builder.
+* [proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox.
 * [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Self-contained GitOps environment for provisioning and orchestrating Linux Containers (LXC) on Proxmox VE.
+* [Proxmox Kubernetes Engine (PKE)](https://github.com/Caprox-eu/Proxmox-Kubernetes-Engine) - Solution for automatically deploying and managing high available Kubernetes clusters directly on Proxmox VE environments.
 * [Pulumi Proxmox VE](https://github.com/muhlba91/pulumi-proxmoxve) - Pulumi provider for creating and managing Proxmox VE resources.
 * [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform provider which adds support for Proxmox solutions.
 
@@ -178,6 +196,7 @@
 
 * [Migrate to Proxmox VE](https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE) - Official guide for moving VMs to Proxmox VE, including the ESXi import wizard.
 * [MultiPortal Migrator](https://multiportal.io/vmware-to-proxmox-migration/) - Orchestrated VM Migration from VMware to Proxmox.
+* [proxmove](https://github.com/ossobv/proxmove) - Migrate virtual machines between different Proxmox VE clusters with minimal downtime.
 * [ProxMigrate](https://github.com/AthenaNetworks/ProxMigrate) - Powerful, user-friendly command-line tool for migrating virtual machines between Proxmox VE servers.
 
 ## Mobile Apps
@@ -255,6 +274,7 @@
 * [Everpure: Technology Integrations - Proxmox](https://support.everpuredata.com/access?dita:id=m_proxmox) - Guidance on how to leverage Everpure FlashArray with iSCSI, FC or NFS.
 * [Setting Up Highly Available Storage for Proxmox Using LINSTOR](https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/) - Guide to DRBD-based highly available storage for Proxmox using LINSTOR and the LINBIT GUI.
 * [Netapp: Proxmox VE with ONTAP](https://docs.netapp.com/us-en/netapp-solutions/proxmox/proxmox-ontap.html) - Netapp ONTAP storage can serve the needs of Proxmox VE host environments as well as for guest file, block and object storage demands.
+* [Open-E JovianDSS Proxmox Plugin](https://github.com/open-e/JovianDSS-Proxmox) - The Plugin integrates Proxmox VE with Open-E JovianDSS storage and allows administrators to manage storage-backed VM and container disks directly through standard Proxmox interfaces.
 * [Proxmox VE Plugin for HPE Nimble Storage (iSCSI)](https://github.com/brngates98/pve-nimble-plugin) - Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.
 * [Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source](https://github.com/kolesa-team/pve-purestorage-plugin) - Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).
 * [SharedLVM](https://github.com/delltech1/proxmox-sharedlvmthin) - Snapshot-capable shared FC/iSCSI SAN storage for Proxmox VE 9 clusters, with Thin Pools and Thick Generations over an existing shared LVM VG.
