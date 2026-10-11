@@ -389,6 +389,13 @@
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
+          "name": "LWS - Linux Web Services CLI",
+          "url": "https://github.com/fabriziosalmi/lws",
+          "description": "Unified command line interface for Proxmox, LXC and Docker.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Proxmox Manager",
           "url": "https://github.com/TimInTech/proxmox-manager",
           "description": "Single-file Bash tool for managing Proxmox VMs and containers.",
@@ -556,6 +563,41 @@
       "subgroups": []
     },
     {
+      "id": "events",
+      "name": "Events",
+      "items": [
+        {
+          "name": "Proxday",
+          "url": "https://www.proxday.de/",
+          "description": "Annual, tech conference focused on the Proxmox VE open-source virtualization ecosystem. Organized by the German IT service provider credativ GmbH.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.proxday.de.ico"
+        },
+        {
+          "name": "Proxtalks",
+          "url": "https://proxtalks.de",
+          "description": "Technical conference dedicated to users and experts of the open-source virtualization platform Proxmox VE.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/proxtalks.de.ico"
+        },
+        {
+          "name": "PVEday",
+          "url": "https://www.pveday.be/",
+          "description": "A Proxmox and open source community day in Belgium.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.pveday.be.ico"
+        },
+        {
+          "name": "Proxmox Global Events & Industry Insights",
+          "url": "https://www.proxmox.com/en/about/about-us/events",
+          "description": "List of events centered around Proxmox technology.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/proxmox/E57000"
+        }
+      ],
+      "subgroups": []
+    },
+    {
       "id": "forums",
       "name": "Forums",
       "items": [
@@ -651,6 +693,13 @@
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
+          "name": "Karpenter Provider for Proxmox",
+          "url": "https://github.com/sergelogvinov/karpenter-provider-proxmox",
+          "description": "Karpenter provider for Proxmox.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "OpenTofu Provider for Proxmox",
           "url": "https://search.opentofu.org/provider/bpg/proxmox/latest",
           "description": "OpenTofu provider which adds support for Proxmox solutions",
@@ -665,9 +714,23 @@
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
+          "name": "proxmox-cloud-controller-manager",
+          "url": "https://github.com/sergelogvinov/proxmox-cloud-controller-manager",
+          "description": "Kubernetes cloud controller manager for Proxmox.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Proxmox-GitOps",
           "url": "https://github.com/stevius10/Proxmox-GitOps",
           "description": "Self-contained GitOps environment for provisioning and orchestrating Linux Containers (LXC) on Proxmox VE.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "Proxmox Kubernetes Engine (PKE)",
+          "url": "https://github.com/Caprox-eu/Proxmox-Kubernetes-Engine",
+          "description": "Solution for automatically deploying and managing high available Kubernetes clusters directly on Proxmox VE environments.",
           "links": [],
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
@@ -864,6 +927,13 @@
           "description": "Orchestrated VM Migration from VMware to Proxmox.",
           "links": [],
           "favicon": "https://icons.duckduckgo.com/ip3/multiportal.io.ico"
+        },
+        {
+          "name": "proxmove",
+          "url": "https://github.com/ossobv/proxmove",
+          "description": "Migrate virtual machines between different Proxmox VE clusters with minimal downtime.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "ProxMigrate",
@@ -1281,6 +1351,13 @@
           "favicon": "https://cdn.simpleicons.org/netapp/0067C5"
         },
         {
+          "name": "Open-E JovianDSS Proxmox Plugin",
+          "url": "https://github.com/open-e/JovianDSS-Proxmox",
+          "description": "The Plugin integrates Proxmox VE with Open-E JovianDSS storage and allows administrators to manage storage-backed VM and container disks directly through standard Proxmox interfaces.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Proxmox VE Plugin for HPE Nimble Storage (iSCSI)",
           "url": "https://github.com/brngates98/pve-nimble-plugin",
           "description": "Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.",
@@ -1467,13 +1544,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 160,
+  "itemCount": 170,
   "lastCommit": {
-    "sha": "bc65eedc8e6fba24a6349f26612aa919a95abacb",
-    "short_sha": "bc65eed",
-    "message": "Add Asternodis, pvectl, MultiPortal Migrator",
+    "sha": "4ebbaec4834d4ffbabbb51e5085af5c367804727",
+    "short_sha": "4ebbaec",
+    "message": "Fix badge links",
     "author": "Alexander K.",
-    "date": "2026-10-03T14:20:33Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/bc65eedc8e6fba24a6349f26612aa919a95abacb"
+    "date": "2026-10-11T14:57:17Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/4ebbaec4834d4ffbabbb51e5085af5c367804727"
   }
 }
