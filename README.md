@@ -109,6 +109,7 @@
 * [Proxmox VMID Updater](https://github.com/sannier3/proxmox-vmid-updater) - Interactive Proxmox VM/LXC ID renaming script with automatic logging, safety checks, and storage path updates.
 * [ProxMenux](https://github.com/MacRimi/ProxMenux) - Management tool for Proxmox VE that simplifies system administration through an interactive menu.
 * [proxtagger](https://github.com/reginleif88/proxtagger) - Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
+* [proxxx](https://github.com/fabriziosalmi/proxxx) - Terminal cockpit for Proxmox VE & Proxmox Backup Server.
 * [pvectl](https://github.com/mytechspacexyz/pvectl) - Pure bash CLI tool for Proxmox VE 7.x/8.x/9.x clusters management. No Python. No Go. No SDKs. 
 * [PVE-mods](https://github.com/Meliox/PVE-mods) - Small collection of scripts and mods for Proxmox Virtual Environment (PVE).
 * [PVE Scripts Local](https://github.com/community-scripts/ProxmoxVE-Local) - Local web UI to browse and run Proxmox VE Helper-Scripts without curl-to-bash from the site.
