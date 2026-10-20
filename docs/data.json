@@ -173,6 +173,13 @@
           "favicon": "https://icons.duckduckgo.com/ip3/asternodis.com.ico"
         },
         {
+          "name": "Autorpo",
+          "url": "https://autorpo.com",
+          "description": "Automatic restore testing for Proxmox and Hyper-V backups.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/autorpo.com.ico"
+        },
+        {
           "name": "BACKUP EAGLE",
           "url": "https://www.backup-eagle.com/product/proxmox",
           "description": "Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.",
@@ -396,6 +403,20 @@
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
+          "name": "Proxhawk-tui",
+          "url": "https://github.com/Mrdindon/proxhawk-tui",
+          "description": "A text console for Proxmox VE.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "ProxMorph",
+          "url": "https://github.com/IT-BAER/proxmorph",
+          "description": "CSS themes for Proxmox VE, PBS, and PDM - integrates with the native Color Theme selector.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Proxmox Manager",
           "url": "https://github.com/TimInTech/proxmox-manager",
           "description": "Single-file Bash tool for managing Proxmox VMs and containers.",
@@ -434,6 +455,13 @@
           "name": "proxtagger",
           "url": "https://github.com/reginleif88/proxtagger",
           "description": "Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "proxxx",
+          "url": "https://github.com/fabriziosalmi/proxxx",
+          "description": "Terminal cockpit for Proxmox VE & Proxmox Backup Server.",
           "links": [],
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
@@ -843,6 +871,13 @@
               "url": "https://anand34577.github.io/ferrum/guide/index.html"
             }
           ],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "Hosbah",
+          "url": "https://github.com/fadymondy/hosbah",
+          "description": "Open-source (AGPL-3.0) server management and app hosting that can create VMs and LXC containers on Proxmox VE, install an agent on them and deploy apps with zero downtime.",
+          "links": [],
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
@@ -1442,6 +1477,13 @@
       "name": "Tutorials, Blogs & Video",
       "items": [
         {
+          "name": "intel-igpu-passthru",
+          "url": "https://github.com/LongQT-sea/intel-igpu-passthru",
+          "description": "Intel GVT-d \u2013 iGPU passthrough done right (Proxmox / QEMU / KVM)",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Lawrence Systems",
           "url": "https://www.youtube.com/c/LawrenceSystems/search?query=proxmox",
           "description": "Enterprise and security-focused Proxmox VE videos.",
@@ -1503,7 +1545,7 @@
         {
           "name": "PVE-VDIClient",
           "url": "https://github.com/joshpatten/PVE-VDIClient",
-          "description": "Proxmox based VDI client.",
+          "description": "Proxmox based VDI client",
           "links": [],
           "favicon": "https://cdn.simpleicons.org/github/181717"
         }
@@ -1515,11 +1557,23 @@
       "name": "VPS control panels",
       "items": [
         {
-          "name": "Proxmox VE VPS For WHMCS",
+          "name": "Proxmox VE VPS & Cloud For WHMCS",
           "url": "https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps",
           "description": "High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.",
           "links": [],
           "favicon": "https://icons.duckduckgo.com/ip3/www.modulesgarden.com.ico"
+        },
+        {
+          "name": "Proxmox VPS WHMCS Module",
+          "url": "https://whmcsglobalservices.com/proxmox-vps-whmcs-module/",
+          "description": "Provisioning and management suite from WHMCS Global Services. It connects WHMCS products to Proxmox VE clustesr so orders create guests automatically, clients manage their VPS from the Client Area, and admins control servers, IP pools, firewall templates, cloud-init scripts, backups, and console access from one place",
+          "links": [
+            {
+              "label": "docs",
+              "url": "https://wiki.whmcsglobalservices.com/index.php?title=Proxmox_VE_VPS_%26_Cloud_WHMCS_Module"
+            }
+          ],
+          "favicon": "https://icons.duckduckgo.com/ip3/whmcsglobalservices.com.ico"
         },
         {
           "name": "SolusVM",
@@ -1544,13 +1598,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 170,
+  "itemCount": 177,
   "lastCommit": {
-    "sha": "4ebbaec4834d4ffbabbb51e5085af5c367804727",
-    "short_sha": "4ebbaec",
-    "message": "Fix badge links",
+    "sha": "14b8c9af0e13383bb127df5893a361972ea10454",
+    "short_sha": "14b8c9a",
+    "message": "Add a few more tools",
     "author": "Alexander K.",
-    "date": "2026-10-11T14:57:17Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/4ebbaec4834d4ffbabbb51e5085af5c367804727"
+    "date": "2026-10-20T19:36:26Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/14b8c9af0e13383bb127df5893a361972ea10454"
   }
 }
