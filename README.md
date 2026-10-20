@@ -103,6 +103,8 @@
 * [cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) - kubectl-style remote CLI for Proxmox VE with multi-cluster contexts and shell completion.
 * [dockur/proxmox](https://github.com/dockur/proxmox) - Full Proxmox VE node running inside a Docker container, for labs and CI.
 * [LWS - Linux Web Services CLI](https://github.com/fabriziosalmi/lws) - Unified command line interface for Proxmox, LXC and Docker.
+* [Proxhawk-tui](https://github.com/Mrdindon/proxhawk-tui) - A text console for Proxmox VE.
+* [ProxMorph](https://github.com/IT-BAER/proxmorph) - CSS themes for Proxmox VE, PBS, and PDM - integrates with the native Color Theme selector.
 * [Proxmox Manager](https://github.com/TimInTech/proxmox-manager) - Single-file Bash tool for managing Proxmox VMs and containers.
 * [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 * [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.
@@ -294,6 +296,7 @@
   
 ## Tutorials, Blogs & Video
 
+* [intel-igpu-passthru](https://github.com/LongQT-sea/intel-igpu-passthru) - Intel GVT-d – iGPU passthrough done right (Proxmox / QEMU / KVM)
 * [Lawrence Systems](https://www.youtube.com/c/LawrenceSystems/search?query=proxmox) - Enterprise and security-focused Proxmox VE videos.
 * [Proxmox Server Solutions](https://www.youtube.com/@ProxmoxVe) - Official YouTube channel for releases, webinars, and product features.
 * [ServeTheHome](https://www.servethehome.com/tag/proxmox-ve/) - Hardware and Proxmox VE guides ([YouTube](https://www.youtube.com/c/ServeTheHomeVideo)).
@@ -303,11 +306,12 @@
 ## VDI
 
 * [Kasm Workspaces](https://docs.kasm.com/docs/latest/how-to/autoscale/autoscale_providers/proxmox) - Configuring autoscaling for Kasm Workspaces on Proxmox.
-* [PVE-VDIClient](https://github.com/joshpatten/PVE-VDIClient) - Proxmox based VDI client.
+* [PVE-VDIClient](https://github.com/joshpatten/PVE-VDIClient) - Proxmox based VDI client
 
 ## VPS control panels
 
-* [Proxmox VE VPS For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
+* [Proxmox VE VPS & Cloud For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
+* [Proxmox VPS WHMCS Module](https://whmcsglobalservices.com/proxmox-vps-whmcs-module/) - Provisioning and management suite from WHMCS Global Services. It connects WHMCS products to Proxmox VE clustesr so orders create guests automatically, clients manage their VPS from the Client Area, and admins control servers, IP pools, firewall templates, cloud-init scripts, backups, and console access from one place ([docs](https://wiki.whmcsglobalservices.com/index.php?title=Proxmox_VE_VPS_%26_Cloud_WHMCS_Module)).
 * [SolusVM](https://solusvm.com/) - Virtual infrastructure management solution to facilitate choice, simplicity, and performance for ISPs and enterprises.
 * [Virtualizor](https://www.virtualizor.com/) - Web based VPS Control Panel to deploy and manage VPS on servers with a single click. Supports KVM, Xen, OpenVZ, Proxmox, Virtuozzo, LXC, and more ([docs](https://www.virtualizor.com/docs/)).
 
