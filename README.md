@@ -84,6 +84,7 @@
 * [cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.
 * [Joulenap](https://github.com/Joulenap/joulenap) - Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.
 * [NAKIVO Backup & Replication](https://www.nakivo.com/proxmox-backup/) - Backup, replication, failover, cloud/tape backup, granular restore, and disaster recovery orchestration for virtual, physical, cloud, and SaaS environments ([trial](https://www.nakivo.com/resources/download/trial-download/), [docs](https://helpcenter.nakivo.com/User-Guide/Content/Home.htm)).
+* [PBP - Proxmox Backup Proofing](https://github.com/Breadth-Security/Proxmox-Backup-Proofing) - Automated restore testing for Proxmox VE and Proxmox Backup Server: restores, boots and checks each guest's newest backup.
 * [Proxmox Backup Client](https://pbs.proxmox.com/docs/backup-client.html) - Official command-line client for Proxmox Backup Server, including host, VM, and file backups.
 * [Proxmox Backup Server](https://proxmox.com/en/products/proxmox-backup-server/overview) - Enterprise backup solution for backing up and restoring VMs, containers, and physical hosts ([download](https://proxmox.com/en/downloads/proxmox-backup-server), [docs](https://pbs.proxmox.com/docs/installation.html)).
 * [proxmox-backup](https://github.com/tis24dev/proxmox-backup) - Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.
@@ -155,10 +156,12 @@
 
 ## Guest Automation
 
+* [OpenCore-ISO - OpenCore for Proxmox VE / QEMU](https://github.com/LongQT-sea/OpenCore-ISO) - OpenCore ISO image for running macOS virtual machines on Proxmox VE and QEMU/KVM. No legacy configurations, no OVMF patches, no kernel patches, true vanilla macOS.
 * [osx-proxmox](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery image auto-download, and AMD/Intel CPU support for Sonoma, Sequoia, and Tahoe.
 * [proxmox-guestos-customization](https://github.com/RobertLukan/proxmox-guestos-customization) - Community Sysprep sidecar to clone and customize Windows templates on Proxmox VE (hostname, network, AD/workgroup) via the QEMU guest agent.
 * [pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200ms boot.
 * [valheim-proxmox](https://github.com/PawelSzymanski89/valheim-proxmox) - One-command Valheim dedicated server LXC with a web panel for players, bans, worlds, backups and mods
+
 
 ## Infrastructure as Code
 
@@ -275,6 +278,7 @@
 ## Storage
 
 * [ANAS](https://github.com/ccebelenski/anas) - The storage layer Proxmox VE doesn't have, inside the Proxmox web UI. ZFS and mixed-size Hybrid RAID pools, SMB/NFS shares, an iSCSI target, snapshots and schedules, replication, backup and restore to PBS — as native panels on the PVE node.
+* [cetrafs](https://github.com/cetrafs/cetrafs) - A clustered, shared-disk filesystem for Linux - a modern, open alternative to VMFS.
 * [Dell PowerStore: Deploying Proxmox Virtual Environment](https://infohub.delltechnologies.com/en-us/t/dell-powerstore-deploying-proxmox-virtual-environment-white-paper/) - White paper on deploying and configuring Proxmox Virtual Environment on Dell PowerStore with shared storage.
 * [Everpure: Technology Integrations - Proxmox](https://support.everpuredata.com/access?dita:id=m_proxmox) - Guidance on how to leverage Everpure FlashArray with iSCSI, FC or NFS.
 * [Setting Up Highly Available Storage for Proxmox Using LINSTOR](https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/) - Guide to DRBD-based highly available storage for Proxmox using LINSTOR and the LINBIT GUI.
@@ -282,6 +286,7 @@
 * [Open-E JovianDSS Proxmox Plugin](https://github.com/open-e/JovianDSS-Proxmox) - The Plugin integrates Proxmox VE with Open-E JovianDSS storage and allows administrators to manage storage-backed VM and container disks directly through standard Proxmox interfaces.
 * [Proxmox VE Plugin for HPE Nimble Storage (iSCSI)](https://github.com/brngates98/pve-nimble-plugin) - Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.
 * [Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source](https://github.com/kolesa-team/pve-purestorage-plugin) - Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).
+* [pve-storage-cetrafs](https://github.com/cetrafs/cetrafs-proxmox) - Proxmox VE storage plugin for cetrafs, the clustered shared-disk filesystem.
 * [SharedLVM](https://github.com/delltech1/proxmox-sharedlvmthin) - Snapshot-capable shared FC/iSCSI SAN storage for Proxmox VE 9 clusters, with Thin Pools and Thick Generations over an existing shared LVM VG.
 * [StorPool Storage Powering Proxmox Virtual Environments](https://storpool.com/proxmox-virtual-environment) - Ultra-Fast, Reliable, and Scalable Block Storage as a Service for Proxmox Environments.
 * [Snapbridge](https://github.com/abdoufermat5/snapbridge) - Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.
