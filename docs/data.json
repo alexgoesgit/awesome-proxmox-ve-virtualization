@@ -266,6 +266,13 @@
           "favicon": "https://icons.duckduckgo.com/ip3/www.nakivo.com.ico"
         },
         {
+          "name": "PBP - Proxmox Backup Proofing",
+          "url": "https://github.com/Breadth-Security/Proxmox-Backup-Proofing",
+          "description": "Automated restore testing for Proxmox VE and Proxmox Backup Server: restores, boots and checks each guest's newest backup.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Proxmox Backup Client",
           "url": "https://pbs.proxmox.com/docs/backup-client.html",
           "description": "Official command-line client for Proxmox Backup Server, including host, VM, and file backups.",
@@ -657,6 +664,13 @@
       "id": "guest-automation",
       "name": "Guest Automation",
       "items": [
+        {
+          "name": "OpenCore-ISO - OpenCore for Proxmox VE / QEMU",
+          "url": "https://github.com/LongQT-sea/OpenCore-ISO",
+          "description": "OpenCore ISO image for running macOS virtual machines on Proxmox VE and QEMU/KVM. No legacy configurations, no OVMF patches, no kernel patches, true vanilla macOS.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
         {
           "name": "osx-proxmox",
           "url": "https://github.com/lucid-fabrics/osx-proxmox-next",
@@ -1358,6 +1372,13 @@
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
+          "name": "cetrafs",
+          "url": "https://github.com/cetrafs/cetrafs",
+          "description": "A clustered, shared-disk filesystem for Linux - a modern, open alternative to VMFS.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Dell PowerStore: Deploying Proxmox Virtual Environment",
           "url": "https://infohub.delltechnologies.com/en-us/t/dell-powerstore-deploying-proxmox-virtual-environment-white-paper/",
           "description": "White paper on deploying and configuring Proxmox Virtual Environment on Dell PowerStore with shared storage.",
@@ -1403,6 +1424,13 @@
           "name": "Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source",
           "url": "https://github.com/kolesa-team/pve-purestorage-plugin",
           "description": "Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "pve-storage-cetrafs",
+          "url": "https://github.com/cetrafs/cetrafs-proxmox",
+          "description": "Proxmox VE storage plugin for cetrafs, the clustered shared-disk filesystem.",
           "links": [],
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
@@ -1598,13 +1626,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 177,
+  "itemCount": 181,
   "lastCommit": {
-    "sha": "14b8c9af0e13383bb127df5893a361972ea10454",
-    "short_sha": "14b8c9a",
-    "message": "Add a few more tools",
+    "sha": "ab83d56de713ac54af82980b2ee24ebec0bd0863",
+    "short_sha": "ab83d56",
+    "message": "Add cetrafs, PBP and OpenCore-ISO",
     "author": "Alexander K.",
-    "date": "2026-10-20T19:36:26Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/14b8c9af0e13383bb127df5893a361972ea10454"
+    "date": "2026-10-25T15:57:32Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/ab83d56de713ac54af82980b2ee24ebec0bd0863"
   }
 }
