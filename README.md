@@ -281,12 +281,13 @@
 * [cetrafs](https://github.com/cetrafs/cetrafs) - A clustered, shared-disk filesystem for Linux - a modern, open alternative to VMFS.
 * [Dell PowerStore: Deploying Proxmox Virtual Environment](https://infohub.delltechnologies.com/en-us/t/dell-powerstore-deploying-proxmox-virtual-environment-white-paper/) - White paper on deploying and configuring Proxmox Virtual Environment on Dell PowerStore with shared storage.
 * [Everpure: Technology Integrations - Proxmox](https://support.everpuredata.com/access?dita:id=m_proxmox) - Guidance on how to leverage Everpure FlashArray with iSCSI, FC or NFS.
-* [Setting Up Highly Available Storage for Proxmox Using LINSTOR](https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/) - Guide to DRBD-based highly available storage for Proxmox using LINSTOR and the LINBIT GUI.
+* [MeshXFS](https://github.com/sshoecraft/meshxfs) - A POSIX clustered filesystem built on XFS. Mount the same shared block device read-write from multiple nodes.
 * [Netapp: Proxmox VE with ONTAP](https://docs.netapp.com/us-en/netapp-solutions/proxmox/proxmox-ontap.html) - Netapp ONTAP storage can serve the needs of Proxmox VE host environments as well as for guest file, block and object storage demands.
 * [Open-E JovianDSS Proxmox Plugin](https://github.com/open-e/JovianDSS-Proxmox) - The Plugin integrates Proxmox VE with Open-E JovianDSS storage and allows administrators to manage storage-backed VM and container disks directly through standard Proxmox interfaces.
 * [Proxmox VE Plugin for HPE Nimble Storage (iSCSI)](https://github.com/brngates98/pve-nimble-plugin) - Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.
 * [Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source](https://github.com/kolesa-team/pve-purestorage-plugin) - Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).
 * [pve-storage-cetrafs](https://github.com/cetrafs/cetrafs-proxmox) - Proxmox VE storage plugin for cetrafs, the clustered shared-disk filesystem.
+* [Setting Up Highly Available Storage for Proxmox Using LINSTOR](https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/) - Guide to DRBD-based highly available storage for Proxmox using LINSTOR and the LINBIT GUI.
 * [SharedLVM](https://github.com/delltech1/proxmox-sharedlvmthin) - Snapshot-capable shared FC/iSCSI SAN storage for Proxmox VE 9 clusters, with Thin Pools and Thick Generations over an existing shared LVM VG.
 * [StorPool Storage Powering Proxmox Virtual Environments](https://storpool.com/proxmox-virtual-environment) - Ultra-Fast, Reliable, and Scalable Block Storage as a Service for Proxmox Environments.
 * [Snapbridge](https://github.com/abdoufermat5/snapbridge) - Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.
@@ -315,6 +316,7 @@
 
 ## VPS control panels
 
+* [Cloudmox](https://www.cloudmox.eu/) - A Proxmox add on that is a Web based multi-tenant control panel. Proxmox manages the clusters (settings like HA, DRS, Storage, networking), Cloudmox manages all the access, limits, white labelling, billing, tenants, users and security. It allows tenants, users and user groups to create and control VMs and prevent misconfigurations. 
 * [Proxmox VE VPS & Cloud For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
 * [Proxmox VPS WHMCS Module](https://whmcsglobalservices.com/proxmox-vps-whmcs-module/) - Provisioning and management suite from WHMCS Global Services. It connects WHMCS products to Proxmox VE clustesr so orders create guests automatically, clients manage their VPS from the Client Area, and admins control servers, IP pools, firewall templates, cloud-init scripts, backups, and console access from one place ([docs](https://wiki.whmcsglobalservices.com/index.php?title=Proxmox_VE_VPS_%26_Cloud_WHMCS_Module)).
 * [SolusVM](https://solusvm.com/) - Virtual infrastructure management solution to facilitate choice, simplicity, and performance for ISPs and enterprises.
