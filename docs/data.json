@@ -1393,11 +1393,11 @@
           "favicon": "https://icons.duckduckgo.com/ip3/support.everpuredata.com.ico"
         },
         {
-          "name": "Setting Up Highly Available Storage for Proxmox Using LINSTOR",
-          "url": "https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/",
-          "description": "Guide to DRBD-based highly available storage for Proxmox using LINSTOR and the LINBIT GUI.",
+          "name": "MeshXFS",
+          "url": "https://github.com/sshoecraft/meshxfs",
+          "description": "A POSIX clustered filesystem built on XFS. Mount the same shared block device read-write from multiple nodes.",
           "links": [],
-          "favicon": "https://icons.duckduckgo.com/ip3/linbit.com.ico"
+          "favicon": "https://cdn.simpleicons.org/github/181717"
         },
         {
           "name": "Netapp: Proxmox VE with ONTAP",
@@ -1433,6 +1433,13 @@
           "description": "Proxmox VE storage plugin for cetrafs, the clustered shared-disk filesystem.",
           "links": [],
           "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "Setting Up Highly Available Storage for Proxmox Using LINSTOR",
+          "url": "https://linbit.com/blog/setting-up-highly-available-storage-for-proxmox-using-linstor-the-linbit-gui/",
+          "description": "Guide to DRBD-based highly available storage for Proxmox using LINSTOR and the LINBIT GUI.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/linbit.com.ico"
         },
         {
           "name": "SharedLVM",
@@ -1585,6 +1592,13 @@
       "name": "VPS control panels",
       "items": [
         {
+          "name": "Cloudmox",
+          "url": "https://www.cloudmox.eu/",
+          "description": "A Proxmox add on that is a Web based multi-tenant control panel. Proxmox manages the clusters (settings like HA, DRS, Storage, networking), Cloudmox manages all the access, limits, white labelling, billing, tenants, users and security. It allows tenants, users and user groups to create and control VMs and prevent misconfigurations.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/www.cloudmox.eu.ico"
+        },
+        {
           "name": "Proxmox VE VPS & Cloud For WHMCS",
           "url": "https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps",
           "description": "High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.",
@@ -1626,13 +1640,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 181,
+  "itemCount": 183,
   "lastCommit": {
-    "sha": "ab83d56de713ac54af82980b2ee24ebec0bd0863",
-    "short_sha": "ab83d56",
-    "message": "Add cetrafs, PBP and OpenCore-ISO",
+    "sha": "0820b773715f0ce4351d70886e406c2488a209e6",
+    "short_sha": "0820b77",
+    "message": "Add Cloudmox and MeshXFS",
     "author": "Alexander K.",
-    "date": "2026-10-25T15:57:32Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/ab83d56de713ac54af82980b2ee24ebec0bd0863"
+    "date": "2026-10-28T20:00:51Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/0820b773715f0ce4351d70886e406c2488a209e6"
   }
 }
