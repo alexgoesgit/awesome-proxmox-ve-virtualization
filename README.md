@@ -306,6 +306,7 @@
 * [Lawrence Systems](https://www.youtube.com/c/LawrenceSystems/search?query=proxmox) - Enterprise and security-focused Proxmox VE videos.
 * [Proxmox Server Solutions](https://www.youtube.com/@ProxmoxVe) - Official YouTube channel for releases, webinars, and product features.
 * [ServeTheHome](https://www.servethehome.com/tag/proxmox-ve/) - Hardware and Proxmox VE guides ([YouTube](https://www.youtube.com/c/ServeTheHomeVideo)).
+* [sheley.org](https://sheley.org/install-proxmox/) - Proxmox VE install, app, backup and cluster guides for mini PC homelabs, with live hardware prices.
 * [Techno Tim](https://technotim.live/tags/proxmox/) - Homelab blog and videos covering clusters, backups, and helper scripts ([YouTube](https://www.youtube.com/c/TechnoTimLive)).
 * [VirtualizationHowTo](https://www.virtualizationhowto.com/tag/proxmox-ve/) - Proxmox VE tutorials and tool roundups.
 
