@@ -1545,6 +1545,13 @@
           "favicon": "https://icons.duckduckgo.com/ip3/www.servethehome.com.ico"
         },
         {
+          "name": "sheley.org",
+          "url": "https://sheley.org/install-proxmox/",
+          "description": "Proxmox VE install, app, backup and cluster guides for mini PC homelabs, with live hardware prices.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/sheley.org.ico"
+        },
+        {
           "name": "Techno Tim",
           "url": "https://technotim.live/tags/proxmox/",
           "description": "Homelab blog and videos covering clusters, backups, and helper scripts",
@@ -1640,13 +1647,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 183,
+  "itemCount": 184,
   "lastCommit": {
-    "sha": "0820b773715f0ce4351d70886e406c2488a209e6",
-    "short_sha": "0820b77",
-    "message": "Add Cloudmox and MeshXFS",
+    "sha": "47726911e9f022bb85e4ad24e2d958ad18cc2182",
+    "short_sha": "4772691",
+    "message": "Merge pull request #16 from MaskUp/patch-1",
     "author": "Alexander K.",
-    "date": "2026-10-28T20:00:51Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/0820b773715f0ce4351d70886e406c2488a209e6"
+    "date": "2026-10-31T14:42:51Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/47726911e9f022bb85e4ad24e2d958ad18cc2182"
   }
 }
