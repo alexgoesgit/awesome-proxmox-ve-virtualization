@@ -180,6 +180,13 @@
           "favicon": "https://icons.duckduckgo.com/ip3/autorpo.com.ico"
         },
         {
+          "name": "BackupZit",
+          "url": "https://github.com/Max-Zit/backupzit",
+          "description": "Free open-source self-hosted backup software: Windows & Linux servers and PCs, Proxmox VE, VMware ESXi and Hyper-V VMs, SQL Server, PostgreSQL, MySQL, NAS and Microsoft 365.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "BACKUP EAGLE",
           "url": "https://www.backup-eagle.com/product/proxmox",
           "description": "Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.",
@@ -239,6 +246,13 @@
           "name": "cv4pve-autosnap",
           "url": "https://github.com/Corsinvest/cv4pve-autosnap",
           "description": "Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
+          "name": "FallBCK",
+          "url": "https://github.com/OSShield/fallbck",
+          "description": "Application-aware backups for filesystems, databases, Kubernetes, Proxmox VE and Docker hosts, and Microsoft 365, straight into Proxmox Backup Server.",
           "links": [],
           "favicon": "https://cdn.simpleicons.org/github/181717"
         },
@@ -950,6 +964,13 @@
           "favicon": "https://cdn.simpleicons.org/proxmox/E57000"
         },
         {
+          "name": "SkyLab",
+          "url": "https://github.com/SkyLab-tw/SkyLab",
+          "description": "A self-hosted cloud for schools: students request VMs, teachers spin up whole classrooms, admins keep Proxmox VE under control.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "Tainer",
           "url": "https://tainer.sh/",
           "description": "A cloud dashboard for Proxmox VE. Deploy, manage, and monitor LXC containers and VMs from anywhere \u2014 no ports to open. Free tier available.",
@@ -1647,13 +1668,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 184,
+  "itemCount": 187,
   "lastCommit": {
-    "sha": "47726911e9f022bb85e4ad24e2d958ad18cc2182",
-    "short_sha": "4772691",
-    "message": "Merge pull request #16 from MaskUp/patch-1",
+    "sha": "1e41ca24524013c60f8ba90d4edd90ccfb232eb7",
+    "short_sha": "1e41ca2",
+    "message": "Add BackupZit, FallBCK and Skylab",
     "author": "Alexander K.",
-    "date": "2026-10-31T14:42:51Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/47726911e9f022bb85e4ad24e2d958ad18cc2182"
+    "date": "2026-11-04T18:29:55Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/1e41ca24524013c60f8ba90d4edd90ccfb232eb7"
   }
 }
