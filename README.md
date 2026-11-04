@@ -75,6 +75,7 @@
 
 * [Asternodis](https://asternodis.com) - Provides disaster‑recovery orchestration for Proxmox VE. It replicates virtual machines and containers to a secondary site, supports non‑intrusive recovery testing, and executes coordinated failover and failback. It works with any storage backend, including but not limited to ZFS and Ceph
 * [Autorpo](https://autorpo.com) - Automatic restore testing for Proxmox and Hyper-V backups.
+* [BackupZit](https://github.com/Max-Zit/backupzit) - Free open-source self-hosted backup software: Windows & Linux servers and PCs, Proxmox VE, VMware ESXi and Hyper-V VMs, SQL Server, PostgreSQL, MySQL, NAS and Microsoft 365.
 * [BACKUP EAGLE](https://www.backup-eagle.com/product/proxmox) - Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.
 * [Bacula Enterprise](https://www.baculasystems.com/corporate-data-backup-software-solutions/bacula-enterprise-data-backup-software/features/) - Subscription-based enterprise data backup solution with a Proxmox plugin for the latest PVE releases.
 * [BDRSuite](https://www.bdrsuite.com/proxmox-backup/) - Comprehensive backup and disaster recovery solution for virtual, physical, cloud, and SaaS applications with agentless backup for Proxmox VMs ([docs](https://www.bdrsuite.com/technical-documents/), [download](https://www.bdrsuite.com/vembu-bdr-suite-download/)).
@@ -82,6 +83,7 @@
 * [Cloud-PBS](https://cloud-pbs.com/) - Fast, secure and scalable cloud backup server for your Proxmox VE infrastructure.
 * [Commvault Backup&Recovery](https://www.commvault.com/use-cases/backup-and-recovery) - Protects VMs hosted in Proxmox Virtual Environment ([docs](https://documentation.commvault.com/v11/software/backups_for_proxmox_vms.html)).
 * [cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) - Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.
+* [FallBCK](https://github.com/OSShield/fallbck) - Application-aware backups for filesystems, databases, Kubernetes, Proxmox VE and Docker hosts, and Microsoft 365, straight into Proxmox Backup Server.
 * [Joulenap](https://github.com/Joulenap/joulenap) - Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.
 * [NAKIVO Backup & Replication](https://www.nakivo.com/proxmox-backup/) - Backup, replication, failover, cloud/tape backup, granular restore, and disaster recovery orchestration for virtual, physical, cloud, and SaaS environments ([trial](https://www.nakivo.com/resources/download/trial-download/), [docs](https://helpcenter.nakivo.com/User-Guide/Content/Home.htm)).
 * [PBP - Proxmox Backup Proofing](https://github.com/Breadth-Security/Proxmox-Backup-Proofing) - Automated restore testing for Proxmox VE and Proxmox Backup Server: restores, boots and checks each guest's newest backup.
@@ -198,6 +200,7 @@
 * [ProxCenter](https://www.proxcenter.io/) - Modern web interface for monitoring, managing, and optimizing Proxmox VE infrastructure. Multi-cluster management, cross-hypervisor migration, workload balancing, and more — from a single pane of glass ([docs](https://docs.proxcenter.io/)).
 * [Proxion](https://github.com/C2Tech-sys/proxion) - Open-source web console for managing Proxmox VE nodes, VMs and containers.
 * [Proxmox Datacenter Manager](https://www.proxmox.com/en/downloads/proxmox-datacenter-manager) - Server management software to provide a unified overview of all nodes and clusters that Proxmox VE users have in their virtualized environments ([docs](https://pdm.proxmox.com/docs/introduction.html)).
+* [SkyLab](https://github.com/SkyLab-tw/SkyLab) - A self-hosted cloud for schools: students request VMs, teachers spin up whole classrooms, admins keep Proxmox VE under control.
 * [Tainer](https://tainer.sh/) - A cloud dashboard for Proxmox VE. Deploy, manage, and monitor LXC containers and VMs from anywhere — no ports to open. Free tier available.
 
 ## Migration
