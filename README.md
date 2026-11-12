@@ -308,6 +308,7 @@
 * [intel-igpu-passthru](https://github.com/LongQT-sea/intel-igpu-passthru) - Intel GVT-d – iGPU passthrough done right (Proxmox / QEMU / KVM)
 * [Lawrence Systems](https://www.youtube.com/c/LawrenceSystems/search?query=proxmox) - Enterprise and security-focused Proxmox VE videos.
 * [Proxmox Server Solutions](https://www.youtube.com/@ProxmoxVe) - Official YouTube channel for releases, webinars, and product features.
+* [proxmox-igpu-passthrough](https://github.com/ogabelopes/proxmox-igpu-passthrough) - AMD Radeon 680M/780M iGPU passthrough to Windows 11 on Proxmox VE, with a read-only setup checker.
 * [ServeTheHome](https://www.servethehome.com/tag/proxmox-ve/) - Hardware and Proxmox VE guides ([YouTube](https://www.youtube.com/c/ServeTheHomeVideo)).
 * [sheley.org](https://sheley.org/install-proxmox/) - Proxmox VE install, app, backup and cluster guides for mini PC homelabs, with live hardware prices.
 * [Techno Tim](https://technotim.live/tags/proxmox/) - Homelab blog and videos covering clusters, backups, and helper scripts ([YouTube](https://www.youtube.com/c/TechnoTimLive)).
