@@ -1554,6 +1554,13 @@
           "favicon": "https://cdn.simpleicons.org/youtube/FF0000"
         },
         {
+          "name": "proxmox-igpu-passthrough",
+          "url": "https://github.com/ogabelopes/proxmox-igpu-passthrough",
+          "description": "AMD Radeon 680M/780M iGPU passthrough to Windows 11 on Proxmox VE, with a read-only setup checker.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "ServeTheHome",
           "url": "https://www.servethehome.com/tag/proxmox-ve/",
           "description": "Hardware and Proxmox VE guides",
@@ -1668,13 +1675,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 187,
+  "itemCount": 188,
   "lastCommit": {
-    "sha": "1e41ca24524013c60f8ba90d4edd90ccfb232eb7",
-    "short_sha": "1e41ca2",
-    "message": "Add BackupZit, FallBCK and Skylab",
+    "sha": "6abf3753d7ab154e1847aae4004413e31779fa91",
+    "short_sha": "6abf375",
+    "message": "Merge pull request #17 from ogabelopes/add-proxmox-igpu-passthrough",
     "author": "Alexander K.",
-    "date": "2026-11-04T18:29:55Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/1e41ca24524013c60f8ba90d4edd90ccfb232eb7"
+    "date": "2026-11-12T18:32:05Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/6abf3753d7ab154e1847aae4004413e31779fa91"
   }
 }
