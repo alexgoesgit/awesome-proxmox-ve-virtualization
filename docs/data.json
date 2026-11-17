@@ -679,6 +679,13 @@
       "name": "Guest Automation",
       "items": [
         {
+          "name": "Open Image Cloud",
+          "url": "https://openimages.cloud",
+          "description": "Signed, boot-tested qcow2 cloud images for Proxmox VE templates, kept up to date on the node by oic-sync.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/openimages.cloud.ico"
+        },
+        {
           "name": "OpenCore-ISO - OpenCore for Proxmox VE / QEMU",
           "url": "https://github.com/LongQT-sea/OpenCore-ISO",
           "description": "OpenCore ISO image for running macOS virtual machines on Proxmox VE and QEMU/KVM. No legacy configurations, no OVMF patches, no kernel patches, true vanilla macOS.",
@@ -1675,13 +1682,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 188,
+  "itemCount": 189,
   "lastCommit": {
-    "sha": "6abf3753d7ab154e1847aae4004413e31779fa91",
-    "short_sha": "6abf375",
-    "message": "Merge pull request #17 from ogabelopes/add-proxmox-igpu-passthrough",
+    "sha": "923c786d7a5bea79e0ddbfc5834ffd5883d293da",
+    "short_sha": "923c786",
+    "message": "Merge pull request #18 from kallioli/add-open-image-cloud",
     "author": "Alexander K.",
-    "date": "2026-11-12T18:32:05Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/6abf3753d7ab154e1847aae4004413e31779fa91"
+    "date": "2026-11-17T19:31:11Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/923c786d7a5bea79e0ddbfc5834ffd5883d293da"
   }
 }
