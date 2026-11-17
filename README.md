@@ -158,6 +158,7 @@
 
 ## Guest Automation
 
+* [Open Image Cloud](https://openimages.cloud) - Signed, boot-tested qcow2 cloud images for Proxmox VE templates, kept up to date on the node by oic-sync.
 * [OpenCore-ISO - OpenCore for Proxmox VE / QEMU](https://github.com/LongQT-sea/OpenCore-ISO) - OpenCore ISO image for running macOS virtual machines on Proxmox VE and QEMU/KVM. No legacy configurations, no OVMF patches, no kernel patches, true vanilla macOS.
 * [osx-proxmox](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery image auto-download, and AMD/Intel CPU support for Sonoma, Sequoia, and Tahoe.
 * [proxmox-guestos-customization](https://github.com/RobertLukan/proxmox-guestos-customization) - Community Sysprep sidecar to clone and customize Windows templates on Proxmox VE (hostname, network, AD/workgroup) via the QEMU guest agent.
