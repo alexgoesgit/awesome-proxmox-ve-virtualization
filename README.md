@@ -206,6 +206,7 @@
 
 ## Migration
 
+* [Ditchly VMware to Proxmox Guide](https://ditchly.co/migrate/vmware-to-proxmox) - Step-by-step guide to import VMs from ESXi 6.5 to 8.0, with notes on vSAN, encrypted disks and Windows boot disks.
 * [Migrate to Proxmox VE](https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE) - Official guide for moving VMs to Proxmox VE, including the ESXi import wizard.
 * [MultiPortal Migrator](https://multiportal.io/vmware-to-proxmox-migration/) - Orchestrated VM Migration from VMware to Proxmox.
 * [proxmove](https://github.com/ossobv/proxmove) - Migrate virtual machines between different Proxmox VE clusters with minimal downtime.
