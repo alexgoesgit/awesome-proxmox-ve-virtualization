@@ -322,7 +322,8 @@
 
 ## VPS control panels
 
-* [Cloudmox](https://www.cloudmox.eu/) - A Proxmox add on that is a Web based multi-tenant control panel. Proxmox manages the clusters (settings like HA, DRS, Storage, networking), Cloudmox manages all the access, limits, white labelling, billing, tenants, users and security. It allows tenants, users and user groups to create and control VMs and prevent misconfigurations. 
+* [Cloudmox](https://www.cloudmox.eu/) - A Proxmox add on that is a Web based multi-tenant control panel. Proxmox manages the clusters (settings like HA, DRS, Storage, networking), Cloudmox manages all the access, limits, white labelling, billing, tenants, users and security. It allows tenants, users and user groups to create and control VMs and prevent misconfigurations.
+* [NodeRings](https://noderings.com) - SaaS control plane and VPS marketplace for hosting providers who connect Proxmox VE (also VirtFusion and SolusVM 2).
 * [Proxmox VE VPS & Cloud For WHMCS](https://www.modulesgarden.com/products/whmcs/proxmox-ve-vps) - High-powered module that automates every step of the virtual server provisioning process, from initial setup to ongoing management.
 * [Proxmox VPS WHMCS Module](https://whmcsglobalservices.com/proxmox-vps-whmcs-module/) - Provisioning and management suite from WHMCS Global Services. It connects WHMCS products to Proxmox VE clustesr so orders create guests automatically, clients manage their VPS from the Client Area, and admins control servers, IP pools, firewall templates, cloud-init scripts, backups, and console access from one place ([docs](https://wiki.whmcsglobalservices.com/index.php?title=Proxmox_VE_VPS_%26_Cloud_WHMCS_Module)).
 * [SolusVM](https://solusvm.com/) - Virtual infrastructure management solution to facilitate choice, simplicity, and performance for ISPs and enterprises.
