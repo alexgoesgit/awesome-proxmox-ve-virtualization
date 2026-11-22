@@ -96,6 +96,7 @@
 * [pve-flr-portal](https://github.com/treycentric/pve-flr-portal) - File Level Restore Portal for Proxmox Backup Server.
 * [pve-zsync](https://pve.proxmox.com/wiki/PVE-zsync) - Official ZFS replication helper for copying VM and container datasets between hosts.
 * [Rubrik Data Protection for Proxmox VE](https://www.rubrik.com/solutions/proxmox-ve) - Rubrik enables you to protect Proxmox workloads with the same immutable, air-gapped architecture used for your VMware, cloud, and SaaS environments—all managed through a single pane of glass.
+* [Salvanza](https://github.com/Salvanza/salvanza_client) - Open-source backup client for Proxmox Backup Server. Folder and whole-machine backups on Windows and Linux (amd64 and arm64), with a desktop app, background service and command line. Restore, Undelete, Roll back, encryption, deduplication and P2V.
 * [SEP sesam for Proxmox Virtual Environment](https://www.sep.de/solutions/proxmox-hypervisor/) - Efficient data protection for virtual machines running on Proxmox VE.
 * [Storware Backup&Recovery](https://storware.eu/solutions/virtual-machine-backup-and-recovery/proxmox-ve-backup-and-recovery/) - Comprehensive data protection for virtual machines, containers, and files on Proxmox VE.
 * [Veeam Backup for Proxmox](https://www.veeam.com/blog/veeam-backup-for-proxmox.html) - Well-known Enterprise backup solution.
@@ -236,6 +237,7 @@
 * [Datadog](https://docs.datadoghq.com/integrations/proxmox/) - Observability and security platform used to monitor applications, infrastructure, logs, networks, user experience, and cloud environments at any scale.
 * [Fivenines](https://fivenines.io/features/proxmox-monitoring) - Hosted monitoring for Proxmox VE clusters, nodes, VMs and LXC containers.
 * [Grafana: Proxmox via Prometheus](https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/) - Standard Grafana dashboard for the Prometheus Proxmox VE exporter.
+* [LibreNMS](https://docs.librenms.org/Extensions/Proxmox/) - Community-based GPL-licensed network monitoring system. Discovers the virtual machines and LXC containers of Proxmox VE hosts and polls their CPU, memory, disk, disk IO and network usage with the Proxmox VE API.
 * [LPAR2RRD](https://lpar2rrd.com/Proxmox-monitoring.php) - Server Performance Monitoring Tool - agentless monitoring, all data is gathered from Proxmox API.
 * [ManageEngine OpManager](https://www.manageengine.com/network-monitoring/proxmox-monitoring.html) -  Network and IT‑infrastructure monitoring platform.
 * [Netdata](https://www.netdata.cloud/integrations/data-collection/containers-and-vms/proxmox-ve/) - Real-time monitoring for infrastructure ranging from IoT devices to hybrid cloud environments with Proxmox VE support.
@@ -308,6 +310,7 @@
 
 * [intel-igpu-passthru](https://github.com/LongQT-sea/intel-igpu-passthru) - Intel GVT-d – iGPU passthrough done right (Proxmox / QEMU / KVM)
 * [Lawrence Systems](https://www.youtube.com/c/LawrenceSystems/search?query=proxmox) - Enterprise and security-focused Proxmox VE videos.
+* [Proxmox Pulse](https://proxmoxpulse.com/) - Practical guides for Proxmox VE administrators.
 * [Proxmox Server Solutions](https://www.youtube.com/@ProxmoxVe) - Official YouTube channel for releases, webinars, and product features.
 * [proxmox-igpu-passthrough](https://github.com/ogabelopes/proxmox-igpu-passthrough) - AMD Radeon 680M/780M iGPU passthrough to Windows 11 on Proxmox VE, with a read-only setup checker.
 * [ServeTheHome](https://www.servethehome.com/tag/proxmox-ve/) - Hardware and Proxmox VE guides ([YouTube](https://www.youtube.com/c/ServeTheHomeVideo)).
