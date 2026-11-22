@@ -359,6 +359,13 @@
           "favicon": "https://icons.duckduckgo.com/ip3/www.rubrik.com.ico"
         },
         {
+          "name": "Salvanza",
+          "url": "https://github.com/Salvanza/salvanza_client",
+          "description": "Open-source backup client for Proxmox Backup Server. Folder and whole-machine backups on Windows and Linux (amd64 and arm64), with a desktop app, background service and command line. Restore, Undelete, Roll back, encryption, deduplication and P2V.",
+          "links": [],
+          "favicon": "https://cdn.simpleicons.org/github/181717"
+        },
+        {
           "name": "SEP sesam for Proxmox Virtual Environment",
           "url": "https://www.sep.de/solutions/proxmox-hypervisor/",
           "description": "Efficient data protection for virtual machines running on Proxmox VE.",
@@ -1149,6 +1156,13 @@
           "favicon": "https://cdn.simpleicons.org/grafana/F46800"
         },
         {
+          "name": "LibreNMS",
+          "url": "https://docs.librenms.org/Extensions/Proxmox/",
+          "description": "Community-based GPL-licensed network monitoring system. Discovers the virtual machines and LXC containers of Proxmox VE hosts and polls their CPU, memory, disk, disk IO and network usage with the Proxmox VE API.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/docs.librenms.org.ico"
+        },
+        {
           "name": "LPAR2RRD",
           "url": "https://lpar2rrd.com/Proxmox-monitoring.php",
           "description": "Server Performance Monitoring Tool - agentless monitoring, all data is gathered from Proxmox API.",
@@ -1554,6 +1568,13 @@
           "favicon": "https://cdn.simpleicons.org/youtube/FF0000"
         },
         {
+          "name": "Proxmox Pulse",
+          "url": "https://proxmoxpulse.com/",
+          "description": "Practical guides for Proxmox VE administrators.",
+          "links": [],
+          "favicon": "https://icons.duckduckgo.com/ip3/proxmoxpulse.com.ico"
+        },
+        {
           "name": "Proxmox Server Solutions",
           "url": "https://www.youtube.com/@ProxmoxVe",
           "description": "Official YouTube channel for releases, webinars, and product features.",
@@ -1682,13 +1703,13 @@
       "subgroups": []
     }
   ],
-  "itemCount": 189,
+  "itemCount": 192,
   "lastCommit": {
-    "sha": "923c786d7a5bea79e0ddbfc5834ffd5883d293da",
-    "short_sha": "923c786",
-    "message": "Merge pull request #18 from kallioli/add-open-image-cloud",
+    "sha": "aea80abe240fdcc1022794f26fbe71ecff7a311c",
+    "short_sha": "aea80ab",
+    "message": "Add Salvanza, LibreNMS, Proxmox Pulse",
     "author": "Alexander K.",
-    "date": "2026-11-17T19:31:11Z",
-    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/923c786d7a5bea79e0ddbfc5834ffd5883d293da"
+    "date": "2026-11-22T13:59:59Z",
+    "url": "https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/commit/aea80abe240fdcc1022794f26fbe71ecff7a311c"
   }
 }
